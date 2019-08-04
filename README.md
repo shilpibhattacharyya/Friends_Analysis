@@ -4,3 +4,8 @@ I am a huge fan of the TV sitcom 'F.R.I.E.N.D.S' and recently I have been wantin
 
 ## References:
 https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f - Multi-Class Text Classification with Scikit-Learn
+
+
+## Word embeddings
+
+![PCA](img/WE.png)
