@@ -1,0 +1,126 @@
+Rachel
+======================================
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 822,
+    "features": 1
+  },
+  "language": "en",
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.254015,
+        "joy": 0.701507,
+        "fear": 0.05192,
+        "disgust": 0.002026,
+        "anger": 0.025495
+      }
+    }
+  }
+}
+Ross
+======================================
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 803,
+    "features": 1
+  },
+  "language": "en",
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.225477,
+        "joy": 0.736175,
+        "fear": 0.045609,
+        "disgust": 0.001332,
+        "anger": 0.011211
+      }
+    }
+  }
+}
+Monica
+======================================
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 811,
+    "features": 1
+  },
+  "language": "en",
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.219407,
+        "joy": 0.732826,
+        "fear": 0.043187,
+        "disgust": 0.00214,
+        "anger": 0.024954
+      }
+    }
+  }
+}
+Phoebe
+======================================
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 797,
+    "features": 1
+  },
+  "language": "en",
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.300887,
+        "joy": 0.63807,
+        "fear": 0.06402,
+        "disgust": 0.002872,
+        "anger": 0.038318
+      }
+    }
+  }
+}
+Chandler
+======================================
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 811,
+    "features": 1
+  },
+  "language": "en",
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.249217,
+        "joy": 0.688166,
+        "fear": 0.059963,
+        "disgust": 0.002258,
+        "anger": 0.038502
+      }
+    }
+  }
+}
+Joey
+======================================
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 804,
+    "features": 1
+  },
+  "language": "en",
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.291379,
+        "joy": 0.662519,
+        "fear": 0.062545,
+        "disgust": 0.001136,
+        "anger": 0.015809
+      }
+    }
+  }
+}
