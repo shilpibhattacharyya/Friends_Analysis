@@ -1,0 +1,1001 @@
+qid,aid1,pid1,act1,aid2,pid2,act2,sim,rel,ma,pac
+1_1,385,79,shop at target for essentials,4910,995,go grocery shopping,3.22222,3.33333,3.55556,1.22222
+1_2,4255,864,sleep,1382,287,sleep in,3.22222,3.66667,2.77778,2.0
+1_3,2956,604,feed one's cats,1996,412,groom one's dog,1.44444,2.22222,2.66667,1.33333
+1_4,4284,870,go jogging,4399,893,lift weights,1.66667,2.22222,2.88889,1.11111
+1_5,4577,928,drive,4853,983,drive to work,3.66667,3.77778,3.22222,2.0
+1_6,4102,833,plan a vacation,4815,976,play video games,0.22222,0.44444,1.11111,-0.22222
+1_7,2571,527,eat at a restaurant one has never been to,2013,415,buy a new dress,0.44444,0.44444,1.44444,0.33333
+1_8,2351,483,travel to philadelphia for a meeting,1227,255,travel by van from oregon to california,2.11111,1.66667,1.22222,0.11111
+1_9,3070,627,play with one's kids,4868,986,watch tv,0.22222,0.44444,0.33333,-0.77778
+1_10,4930,999,do laundry,3510,715,check one's emails in one's hotmail account,0.11111,0.11111,0.33333,-0.0
+1_11,204,42,work one's last day at one's old job,2099,432,do work/homework,2.11111,2.66667,2.55556,0.66667
+1_12,3871,787,walk to get lunch while at work,375,76,walk one's dog through the neighborhood,1.77778,1.66667,1.33333,0.44444
+1_13,135,28,talk on the phone to one's lover,4727,958,kiss one's spouse,1.11111,1.77778,2.33333,0.88889
+1_14,2503,513,walk one's two dogs around the neighborhood,4889,991,take one's pets to the vet,1.44444,2.11111,2.77778,1.0
+1_15,4012,815,work at the gun shop everyday,4009,815,sell guns at work,3.55556,3.88889,3.66667,1.77778
+1_16,2144,441,wash laundry,1511,314,sing at church,0.0,0.0,0.0,-0.22222
+1_17,4930,999,do laundry,4759,965,clean the house,2.44444,2.77778,3.33333,1.33333
+1_18,4527,918,play golf,2925,598,play softball,2.11111,2.44444,3.44444,0.55556
+1_19,3090,631,shop at the thrift store,4731,959,go for a run,0.0,0.11111,0.0,-0.11111
+1_20,4910,995,go grocery shopping,4720,957,eat out,0.0,0.55556,1.88889,-1.22222
+1_21,1549,322,go to dinner with one's brother's family,4812,975,eat dinner with one's family and friend,3.66667,3.44444,4.0,1.22222
+1_22,2925,598,play softball,3102,633,play baseball,3.44444,3.88889,3.88889,0.77778
+1_23,1476,307,get up at 4,3589,731,take spouse to work,0.44444,0.77778,0.77778,0.66667
+1_24,310,63,watch fire works with family,4637,940,spend time with family,2.88889,3.55556,3.44444,1.44444
+1_25,3101,633,go out for vietnamese food,93,19,go to a chinese buffet,2.66667,2.88889,3.55556,0.88889
+2_1,925,191,play with one's cat as she chases a ball of string,4170,847,do homework,0.1,0.2,0.3,-0.2
+2_2,3484,710,read a book before going to sleep,3886,790,drink tea,0.6,0.8,1.3,0.5
+2_3,4169,847,go to a cookout,3820,777,grill meat on a charcoal grill,2.9,3.4,3.8,1.4
+2_4,4714,956,spend time with boyfriend,2654,543,write an email to try to figure out what is going on with one's financial aid,0.1,0.0,0.1,-0.7
+2_5,4759,965,clean the house,3942,801,watch parks and recreation for 5 hours,0.2,0.3,0.2,-0.9
+2_6,4569,927,eat dinner with one's boyfriend,4735,960,go on a date,2.9,3.2,3.5,1.5
+2_7,4928,998,read a book,4081,829,read newspaper,3.2,2.5,3.2,0.9
+2_8,1616,336,go to a mass,302,61,say nightly prayers,2.7,3.3,3.9,1.5
+2_9,1606,334,donate blankets,947,196,volunteer at a local hospital,1.5,2.1,3.3,1.5
+2_10,3062,625,worry about money and time,974,202,rearrange one's work schedule in an attempt to increase one's productivity,1.9,2.7,3.1,1.1
+2_11,2891,591,sit on one's couch,3491,711,train to be an employee of kroger,0.2,0.2,0.4,-0.8
+2_12,4934,1000,take surveys,2581,529,work very diligently on improving one's data entry skills at one's home business to supplement income,1.2,1.9,2.1,1.0
+2_13,2925,598,play softball,4813,975,play baseball with one's oldest son,2.9,2.8,3.0,0.7
+2_14,4589,931,have dinner with family daily every evening,2884,589,read the new anthology with christine feehan in it,0.1,0.1,0.3,-0.2
+2_15,4899,993,read,4651,943,watch football all day this past sunday,0.2,0.4,1.0,-1.0
+2_16,4750,963,exercise,4858,984,go to the gym,3.5,3.9,4.0,1.6
+2_17,4535,920,hang out with friends,2356,484,hang out at one's sister in laws house with our kids,2.2,2.2,2.7,-0.3
+2_18,4634,940,check email,4084,830,fill out paperwork for a new part time job,0.7,1.3,1.2,0.5
+2_19,4868,986,watch tv,1658,344,take a bath and read entertainment weekly,0.3,1.0,1.7,0.2
+2_20,2494,511,wash one's car,2699,552,bring the car in to have the battery checked,1.0,2.2,2.5,0.9
+2_21,4646,942,buy a ball pit for baby,3163,645,plan lessons,0.2,0.4,0.3,-0.3
+2_22,371,75,watch the us open golf tournament,219,44,attend rcw wrestling show,1.4,1.6,2.3,-0.3
+2_23,4184,850,work out at the gym,4399,893,lift weights,3.6,3.7,3.8,1.7
+2_24,1526,317,do a ton of laundry,3874,788,test a new cupcake recipe,0.3,0.5,0.6,0.1
+2_25,4173,847,make dinner for friends,4511,915,binge watch a tv show on netflix,0.2,0.2,0.5,-0.8
+3_1,2817,576,facebook,2090,431,check facebook,3.11111,3.22222,2.88889,1.66667
+3_2,4930,999,do laundry,4930,999,do laundry,3.88889,3.88889,4.0,2.0
+3_3,4750,963,exercise,512,106,attend a sporting event,1.0,1.44444,1.22222,0.77778
+3_4,4634,940,check email,4239,861,write an email,1.77778,3.33333,2.66667,1.22222
+3_5,4896,992,study real estate,3628,738,go to college,1.55556,2.11111,2.33333,0.33333
+3_6,166,34,have a birthday party for a step-daughter,3819,777,bake a cake,0.88889,2.11111,2.33333,1.11111
+3_7,1234,257,go shopping at the flea market,4751,963,drive one's car,0.44444,0.44444,0.66667,0.44444
+3_8,2077,428,kiss one's fiancee/fiance,2611,535,hug one's fiancee/fiance,2.22222,3.33333,3.22222,1.22222
+3_9,3133,639,practice scales on guitar,4255,864,sleep,0.0,0.0,0.22222,-0.55556
+3_10,4928,998,read a book,376,76,watch a baseball game at the sports pub,0.11111,0.44444,1.11111,-0.77778
+3_11,3429,699,trim an oak tree in one's backyard,1491,310,rake the yard and pick up and dispose of yard waste,1.55556,2.66667,3.0,0.88889
+3_12,2876,588,go to a family gathering,4447,902,go out to eat,1.11111,1.55556,2.0,1.0
+3_13,4431,899,teach children,364,73,apply for part-time teaching jobs,1.55556,2.55556,2.88889,1.66667
+3_14,3338,680,look for jobs,4449,903,go on a job interview,2.33333,3.44444,3.66667,1.88889
+3_15,1052,218,go out to eat dinner at olive garden,4735,960,go on a date,1.44444,1.44444,1.33333,0.11111
+3_16,1851,383,speak with friends,2928,598,go to the doctor for sinus infection,0.0,0.0,0.0,-0.0
+3_17,3779,769,write a poem,3204,653,read a novel,0.88889,1.0,1.66667,-0.11111
+3_18,3875,788,pay one's student loan bill,1657,344,pay one's credit card bill online,2.22222,2.22222,2.88889,0.66667
+3_19,1224,255,surf the internet for new places to travel,2489,510,cook a hot meal for one's fiancee/fiance,0.11111,0.11111,0.44444,-0.44444
+3_20,1752,363,rest in bed,3502,713,walk and do jumping jacks,0.0,0.0,0.0,-1.22222
+3_21,883,182,commute to work,4315,876,take the bus and make it on time to work,3.11111,3.22222,3.44444,0.55556
+3_22,4385,890,study,4764,966,walk one's dog,0.0,0.0,0.0,-0.66667
+3_23,1,0,clean the bathtub,1395,290,clean one's restroom thoroughly. toilet,3.0,3.55556,3.55556,1.22222
+3_24,1212,252,play disc golf,2826,578,play tabletop games,1.22222,1.66667,2.66667,0.33333
+3_25,2835,580,go to the casino,3507,714,go drinking,0.66667,1.66667,2.33333,0.88889
+4_1,4462,905,play a video game,2233,459,study abstract algebra,0.0,0.0,0.0,-1.3
+4_2,4085,830,take one's daughter to get her sr school schedule,1710,355,talk with one's kids,1.5,1.8,2.3,1.9
+4_3,1148,239,hike with one's dog,2522,517,hike with friends,2.3,2.3,2.4,0.7
+4_4,1718,356,have dinner with one's family,2230,459,practice the violin,0.0,0.1,0.2,-0.1
+4_5,4634,940,check email,4930,999,do laundry,0.2,0.3,0.3,-0.0
+4_6,4596,932,play basketball,2893,591,meet up with a friend and play basketball for the entire afternoon,3.7,3.5,3.4,1.9
+4_7,3095,632,play video games with spouse via lan,4105,834,play bar trivia with a group of friends,1.2,1.4,1.6,-0.2
+4_8,4910,995,go grocery shopping,4909,995,cook dinner,1.8,2.5,3.0,1.6
+4_9,4210,855,play cards,912,189,play board games with friends,2.8,2.9,3.3,1.3
+4_10,3406,694,watch monday night raw,1201,250,watch a fighting game tournament,2.3,2.6,3.0,0.9
+4_11,3922,797,read a science fiction novel,4901,993,go to the beach,0.4,0.9,1.8,0.3
+4_12,4823,977,wash dishes,4824,978,clean house,2.8,3.3,3.7,1.8
+4_13,4750,963,exercise,4595,932,go for a walk,3.1,3.4,3.7,1.4
+4_14,4910,995,go grocery shopping,4065,826,do yard work,0.9,1.3,1.7,-0.0
+4_15,1507,313,go bowling,3804,774,run on treadmill,0.4,0.6,0.7,0.5
+4_16,3156,644,go to the doctor,3470,707,see the doctor,4.0,3.9,4.0,1.9
+4_17,4731,959,go for a run,4367,886,go on a jog,4.0,3.9,4.0,2.0
+4_18,4930,999,do laundry,3470,707,see the doctor,0.1,0.0,0.1,0.1
+4_19,4726,958,clean,4930,999,do laundry,3.1,3.3,3.5,1.8
+4_20,3977,808,take the cat to the vet,4789,971,play with cat,1.1,1.7,2.0,1.7
+4_21,4333,879,walk over five miles,1149,240,pay the bills,0.0,0.0,0.1,0.4
+4_22,4815,976,play video games,1199,250,go to gamestop,1.7,2.7,3.0,1.8
+4_23,3474,708,do a million loads of laundry,4396,892,fold laundry,2.7,3.3,3.4,1.9
+4_24,4729,959,go out for ice cream,3415,696,do cardio,0.0,0.1,0.1,-0.8
+4_25,4183,849,have one's broken arm repaired with surgery,622,129,do a kickboxing lesson,0.3,0.2,0.5,0.5
+5_1,4603,933,read webcomics and fanfiction,3533,719,read some interesting fiction,3.2,3.0,2.8,1.2
+5_2,3533,719,read some interesting fiction,374,75,read fanfiction,3.1,3.2,3.0,1.5
+5_3,4326,878,play video games with friends,4719,957,play computer games,3.3,3.3,3.2,0.9
+5_4,4578,928,draw,4460,905,sketch ideas for sculptures,2.8,3.1,2.7,1.5
+5_5,4245,862,clean one's house,4930,999,do laundry,1.6,2.2,3.1,1.7
+5_6,4460,905,sketch ideas for sculptures,3367,686,eat out at a new restuarant,0.0,0.0,0.0,-0.2
+5_7,4910,995,go grocery shopping,3351,683,buy a piece of furniture,0.9,1.3,1.1,0.4
+5_8,4065,826,do yard work,3297,672,sweep the floor,1.7,1.9,2.4,1.0
+5_9,1474,307,take one's spouse to a hot air baloon festival,4423,897,swim,0.1,0.3,0.2,0.1
+5_10,2453,503,string beads into a necklace,2947,602,do work on the computer,0.1,0.2,0.3,-0.6
+5_11,1254,261,cook a pasta dish with beans,4334,880,make macaroni and cheese,3.5,3.5,3.9,1.1
+5_12,4866,986,listen to music,2808,574,listen to motivational recordings on youtube,2.7,2.4,2.6,0.5
+5_13,4153,843,play volleyball,2740,561,play football,2.5,2.5,3.5,0.4
+5_14,3021,617,take one's girlfriend/boyfriend to see a model home,2484,509,shop for furniture,1.4,2.3,2.8,1.3
+5_15,4682,949,call one's mom,2331,479,call dad,3.9,3.9,3.6,0.8
+5_16,4711,955,talk to neighbors,2744,561,cut the grass,0.2,0.5,0.4,0.7
+5_17,2825,578,watch battlestar galactica,3294,671,watch college football,1.9,1.7,2.1,-0.6
+5_18,2832,579,make a nice ham sandwich,2957,604,make cookies,2.9,2.3,3.4,0.9
+5_19,3480,709,make a new recipe,4100,833,excercise,0.2,0.0,0.2,-0.4
+5_20,4928,998,read a book,2061,425,play games on one's phone,0.3,0.4,1.7,-1.0
+5_21,4860,985,go to work,2681,549,work one's normal full time job,3.8,4.0,3.8,1.5
+5_22,4726,958,clean,1639,340,do housecleaning,3.9,3.7,3.9,2.0
+5_23,2140,441,check fb,4373,887,check twitter,3.8,3.6,3.9,1.1
+5_24,4883,989,go to church,290,59,pray obligatory 5 daily prayers,2.9,3.6,3.6,1.3
+5_25,4910,995,go grocery shopping,4818,976,eat dinner with family,0.9,1.7,2.1,1.1
+6_1,1483,309,clean a camper,3964,806,take the dog for a walk,0.3,0.2,0.9,0.5
+6_2,1762,365,cook for one's family,2570,527,make dinner for one's mother and oneself,3.6,3.4,3.6,1.8
+6_3,4450,903,mow the lawn,3278,668,mow grass,3.9,3.6,3.6,1.7
+6_4,4910,995,go grocery shopping,2692,551,fill air in tires,0.2,0.7,1.4,0.5
+6_5,4902,993,cook,2376,488,bike 7 miles,0.0,0.0,0.4,-0.3
+6_6,4489,911,go to hunan garden with one's girlfriend/boyfriend,3727,758,skype with one's girlfriend/boyfriend,1.4,1.7,3.0,0.3
+6_7,4557,924,watch movies,4868,986,watch tv,3.3,3.5,3.4,1.5
+6_8,4925,998,eat dinner with one's family,2589,530,eat lunch with parents,3.2,3.1,3.9,1.5
+6_9,386,79,visit a friend with a new baby,728,151,eat dinner with one's whole family,1.2,1.0,1.4,0.4
+6_10,4909,995,cook dinner,3642,741,do dishes,1.3,2.5,2.5,1.3
+6_11,1336,278,listen to music on spotify,4449,903,go on a job interview,0.0,0.1,0.2,-0.3
+6_12,2362,485,clean the closet,4930,999,do laundry,1.3,2.0,2.9,0.8
+6_13,4348,882,vacuum living room,4245,862,clean one's house,3.6,3.7,3.7,1.6
+6_14,4115,836,go out to dinner,396,81,tend to sick orphaned kittens,0.2,0.3,0.4,-0.5
+6_15,4115,836,go out to dinner,3953,803,play tennis,0.4,0.5,0.4,-0.1
+6_16,4910,995,go grocery shopping,4781,969,go to the grocery store,3.9,4.0,4.0,1.7
+6_17,3333,679,walk in the park,3395,692,walk on the treadmill for 30 minutes,2.0,2.4,3.0,-0.2
+6_18,4614,936,take one's son to er for a sprained ankle,4390,891,take baby to appointment,2.4,2.2,2.8,0.6
+6_19,1235,257,attend a concert,4223,857,go to the movies,2.0,1.5,2.8,0.4
+6_20,3233,659,make the bed,4759,965,clean the house,2.5,2.8,3.3,1.2
+6_21,2899,592,finish an application for a grant,1513,315,go shopping with friends,0.2,0.3,0.4,-0.3
+6_22,3858,784,go to the movie theater,4320,877,watch a movie,3.1,3.0,3.4,1.3
+6_23,3142,641,draw pencil sketches,3257,664,color with crayons,3.4,3.1,3.6,1.0
+6_24,4750,963,exercise,1024,213,eat a lot of food,0.2,0.3,0.4,-0.4
+6_25,2869,586,email,4854,984,go to the therapist,0.0,0.0,0.0,-0.2
+7_1,1416,294,learn to program,4554,924,build a computer,2.2,2.4,2.7,0.8
+7_2,4685,950,take a modern dance class,4686,950,take a yoga class,2.1,2.3,2.5,-0.3
+7_3,4935,1000,do surveys,1670,347,get information about volunteer work,1.0,1.4,1.4,0.1
+7_4,4227,858,clean one's room,3208,654,take out trash,2.4,2.8,3.0,1.0
+7_5,2589,530,eat lunch with parents,3082,629,talk with parents,2.3,2.6,3.0,1.2
+7_6,4366,886,surf the internet,2150,443,take bike rides,0.1,0.1,0.1,-0.9
+7_7,362,73,feed a fish,867,179,take care of one's rabbits,3.1,2.7,3.3,0.2
+7_8,262,53,apply for new jobs,4742,961,go to a job interview,3.2,3.5,3.7,1.6
+7_9,4569,927,eat dinner with one's boyfriend,3812,775,take a finite math test,0.0,0.0,0.0,-0.3
+7_10,3132,639,spend time with one's partner,1531,318,go on a dating app,0.9,0.9,1.3,-1.4
+7_11,1146,239,visit the library to get books on cd to listen to in the car,517,107,go to the library to get books,3.3,3.4,3.4,1.0
+7_12,4925,998,eat dinner with one's family,2003,413,eat dinner with one's kids,3.5,3.6,3.7,1.6
+7_13,4255,864,sleep,1810,375,brush one's teeth,0.9,1.1,1.3,0.1
+7_14,4815,976,play video games,4868,986,watch tv,2.0,2.0,2.8,-0.7
+7_15,2519,516,eat breakfast with one's family,4637,940,spend time with family,3.0,2.9,3.4,1.3
+7_16,3855,784,bathe one's cats,3893,791,browse reddit,0.0,0.0,0.0,-1.0
+7_17,2772,567,take a bubble bath,1,0,clean the bathtub,1.2,1.5,1.2,0.5
+7_18,2749,562,play the computer game lords of the fallen,4293,871,play bingo,1.4,1.5,2.4,-1.0
+7_19,1001,208,host a barbecue,2650,543,check the status of one's disability claim through the ssa website,0.0,0.0,0.0,-0.2
+7_20,4541,921,walk,3235,660,eat 2 bags of chips,0.0,0.2,0.0,-1.5
+7_21,2740,561,play football,4596,932,play basketball,3.3,2.8,3.6,-0.6
+7_22,2784,569,go out to eat with friends,4050,823,go out for dinner,3.4,3.4,3.4,0.6
+7_23,4705,954,walk for exercise,1068,222,lift at the gym,2.8,2.7,3.7,-0.0
+7_24,3979,809,golf,4750,963,exercise,2.0,2.2,2.2,0.4
+7_25,244,49,travel to another state,240,49,pack suitcases,1.8,2.3,2.4,1.6
+8_1,3969,807,spend quality time with spouse,4184,850,work out at the gym,0.44444,0.33333,0.55556,-0.66667
+8_2,4902,993,cook,4759,965,clean the house,1.55556,1.88889,2.11111,1.22222
+8_3,4699,953,go to the post office,509,105,go to the bank,1.66667,1.44444,1.88889,0.55556
+8_4,2440,501,fly to the adirondacks with one's girlfriend/boyfriend,425,88,make a sandwich,0.0,0.0,0.0,-0.22222
+8_5,3563,725,hike,2972,607,smoke,0.0,0.11111,0.22222,-1.11111
+8_6,913,189,drive to store,3851,783,go shopping,2.88889,3.33333,3.55556,1.55556
+8_7,2034,419,scrub the bathroom,2927,598,scrub the walls in the house,3.66667,3.88889,3.88889,1.77778
+8_8,4506,914,work on a website design,2249,462,obtain ui buttons from a designer,3.0,3.33333,3.44444,1.66667
+8_9,3625,738,eat a sandwich,2274,467,eat cereal for breakfast,3.44444,3.55556,3.77778,0.22222
+8_10,4534,920,take a shower,2767,566,comb one's hair,2.77778,2.88889,3.33333,1.77778
+8_11,4860,985,go to work,4351,883,dance with friends at a festival,0.0,0.11111,0.11111,-0.77778
+8_12,1648,342,work with clients,4075,828,sell insurance,3.11111,2.88889,3.33333,1.66667
+8_13,4918,996,work,3965,806,go to one's real job,4.0,3.88889,4.0,2.0
+8_14,4045,822,watch a movie in theaters,3761,765,clean up,0.0,0.0,0.0,-0.33333
+8_15,836,173,post a status on facebook,1864,385,go to the post office everyday,0.22222,0.11111,0.66667,-0.11111
+8_16,2919,596,coach student actors at one's old high school,3349,683,teach high school students a class,3.33333,3.55556,3.66667,1.44444
+8_17,4815,976,play video games,2932,599,play online,3.55556,3.44444,3.66667,1.88889
+8_18,4355,884,read books,3521,717,visit a bookstore,3.22222,3.22222,3.66667,2.0
+8_19,4846,982,go shopping for clothes,2398,492,shop for shoes,3.11111,3.33333,3.77778,1.55556
+8_20,565,117,see the optomitrist,3108,634,make a doctors appointment,3.0,3.11111,3.44444,1.33333
+8_21,2722,557,go shopping for groceries,4499,913,study mandarin chinese,0.11111,0.11111,0.66667,0.33333
+8_22,1118,233,work 40 hours a week,204,42,work one's last day at one's old job,1.77778,1.88889,2.0,0.44444
+8_23,4255,864,sleep,1752,363,rest in bed,4.0,4.0,4.0,1.66667
+8_24,4860,985,go to work,2233,459,study abstract algebra,0.33333,0.22222,0.22222,-0.11111
+8_25,952,197,make breakfast with one's partner,2085,430,hit on women,0.11111,0.33333,0.55556,-0.33333
+101_1,4325,878,watch netflix,4217,856,set up cable boxes,0.57143,1.28571,2.0,-0.0
+101_2,1339,278,play video games on one's xbox,716,148,make breakfast for one's daughters,0.0,0.0,0.14286,-0.71429
+101_3,2650,543,check the status of one's disability claim through the ssa website,1548,322,check out books at local public library,0.42857,0.14286,0.28571,-0.28571
+101_4,1660,345,mail some letters,3298,672,retrieve the mail,2.42857,3.0,1.71429,0.85714
+101_5,3884,790,have a date night with spouse,2859,584,go out to the movies with a date,3.0,3.14286,3.0,-0.14286
+101_6,1428,297,clean one's desk,4769,967,look for a new job,0.0,0.57143,0.57143,0.42857
+101_7,2948,602,restyle one's hair,1291,268,cut one's son's hair,1.57143,2.14286,1.28571,1.14286
+101_8,3501,713,take a short trip,1425,296,drive long distances,1.0,1.85714,1.71429,0.57143
+101_9,130,27,cut firewood,1947,402,trim one's beard,0.0,0.28571,0.0,-0.14286
+101_10,2925,598,play softball,1507,313,go bowling,1.42857,1.85714,2.57143,0.71429
+101_11,3169,646,snuggle with one's spouse,3133,639,practice scales on guitar,0.14286,0.0,0.28571,-0.0
+101_12,4857,984,watch tv with one's family,705,146,make cookies for one's family,1.0,1.71429,2.71429,1.42857
+101_13,922,191,tour washington dc,301,61,visit an art museum,1.57143,2.0,2.85714,1.0
+101_14,190,39,purchase one's first mini computer,2231,459,install a new solid state hard drive,1.28571,2.0,2.42857,0.57143
+101_15,2731,559,look online for jobs,4451,903,research new benefits information for the upcoming open enrollment period of one's spouse's employer,0.57143,1.0,0.85714,-0.0
+101_16,326,66,cook a nice meal,3819,777,bake a cake,3.0,3.28571,3.57143,1.71429
+101_17,1002,208,go to a funeral,2021,417,go to a wedding and take lots of pictures,0.71429,0.57143,0.85714,0.57143
+101_18,1794,371,write blogs,2370,487,browse the internet,1.57143,2.28571,1.71429,0.85714
+101_19,1702,353,talk on the phone to one's son that lives out of state,4599,933,talk to friends on skype,2.57143,2.28571,2.42857,0.71429
+101_20,1801,373,play fallout 3,2253,463,watch a movie on tv,0.71429,1.28571,1.71429,-0.28571
+101_21,1631,339,babysit a neighbor's infant,4202,853,drop one's daughter off at daycare,0.71429,2.0,1.28571,-0.28571
+101_22,448,93,take one's spouse to the beach for a picnic,3419,697,write a romantic letter,1.57143,2.14286,3.14286,1.57143
+101_23,4407,894,go to lunch with one's girlfriend/boyfriend,2702,553,eat lunch with one's sister,2.42857,2.42857,2.14286,0.42857
+101_24,3531,719,prepare for upcoming fantasy football draft,4933,999,coach soccer,0.57143,0.42857,0.57143,0.14286
+101_25,3756,764,try to potty train one's dog,3773,767,try to lose weight by going to the gym,0.0,0.0,0.0,0.42857
+102_1,261,53,design a commercial office,4896,992,study real estate,1.28571,1.0,1.14286,0.14286
+102_2,4166,846,shop online,3521,717,visit a bookstore,1.71429,1.85714,2.28571,-1.14286
+102_3,925,191,play with one's cat as she chases a ball of string,622,129,do a kickboxing lesson,0.0,0.14286,0.14286,-0.85714
+102_4,3133,639,practice scales on guitar,2230,459,practice the violin,2.85714,3.14286,3.71429,0.28571
+102_5,3961,805,take a trip to the zoo with family,2545,522,make lunches for one's son,0.57143,0.71429,1.28571,-0.28571
+102_6,2938,600,make some birthday cards and send them to family and friends,4682,949,call one's mom,1.28571,1.57143,2.28571,0.42857
+102_7,1047,217,go to the doctor's office,1891,391,have a massage,0.71429,1.0,1.57143,0.14286
+102_8,996,206,go to the drive-in,2521,517,have a netflix marathon,1.28571,1.71429,2.42857,-0.42857
+102_9,2054,423,play football with friends,3953,803,play tennis,2.42857,2.57143,3.14286,-0.71429
+102_10,2450,503,play solitaire and bingo games on one's kindle,4326,878,play video games with friends,2.14286,2.14286,2.85714,-0.14286
+102_11,1779,368,have conversations with one's daughter,2203,453,talk to one's son about high school,3.57143,3.28571,3.71429,0.42857
+102_12,574,118,pack boxes for an upcoming move,2698,552,sweep and clean the house,1.28571,1.57143,1.57143,0.85714
+102_13,4001,813,take one's son to a burger restaurant with live entertainment,3699,753,eat dinner out,3.0,3.0,2.85714,0.57143
+102_14,4154,844,answer emails,3990,811,write a letter,2.57143,3.14286,3.28571,0.42857
+102_15,3843,781,cook yummy meals,3820,777,grill meat on a charcoal grill,3.28571,3.42857,3.71429,0.57143
+102_16,197,40,clean one's bedroom,1320,275,go on a trip to a different state,0.0,0.0,0.0,-0.42857
+102_17,4894,992,do a fundraising activity for child's club,3709,755,count money for a fundraiser,1.71429,1.85714,2.28571,0.71429
+102_18,2932,599,play online,32,6,download new podcasts,0.85714,1.28571,1.28571,0.14286
+102_19,4047,822,resume reading a non-fiction book,4821,977,read science fiction novels,2.57143,2.71429,3.14286,-0.28571
+102_20,4224,858,feed and play with one's cat,396,81,tend to sick orphaned kittens,2.57143,2.85714,2.85714,0.42857
+102_21,4541,921,walk,3563,725,hike,3.28571,3.42857,3.57143,1.14286
+102_22,2405,494,visit parents for sunday barbecue,2304,473,fish for mackerels,0.42857,0.28571,0.71429,-0.57143
+102_23,2666,546,pay the phone bill,3875,788,pay one's student loan bill,2.14286,2.57143,2.42857,0.71429
+102_24,2894,591,"punch a punching bag 40,000 times",1202,250,play fighting games,2.14286,2.42857,2.57143,0.14286
+102_25,4630,939,do water aerobics,4737,960,collect market research,0.14286,0.0,0.0,-0.42857
+103_1,2089,430,do business,4894,992,do a fundraising activity for child's club,1.0,1.42857,0.42857,0.28571
+103_2,1967,406,watch a television show,3018,616,watch a dvd,3.14286,3.28571,3.28571,1.0
+103_3,3367,686,eat out at a new restuarant,4236,860,order take out,2.0,2.71429,2.71429,-0.71429
+103_4,1926,398,meet up with friends of ours for dinner,2893,591,meet up with a friend and play basketball for the entire afternoon,1.14286,1.57143,2.14286,0.28571
+103_5,3158,644,have beers with one's best friend,306,62,have a great meal on a date,1.42857,1.57143,1.28571,0.71429
+103_6,1256,261,get a much needed haircut,2326,478,get one's hair done,2.85714,3.14286,3.42857,1.42857
+103_7,4146,842,learn html online,2949,602,have a barbecue,0.0,0.0,0.28571,-0.42857
+103_8,34,6,do trash pickup day chores,1382,287,sleep in,0.14286,0.28571,0.28571,-0.85714
+103_9,3767,766,go for a walk on the beach,3874,788,test a new cupcake recipe,0.0,0.0,0.42857,-0.0
+103_10,1392,289,go and see two movies back to back with one's spouse,3578,728,watch movies with family,3.42857,3.57143,3.0,0.85714
+103_11,2567,526,eat lunch at 5 guys,3572,727,eat at a restuarant with family,2.85714,3.0,2.14286,0.57143
+103_12,2947,602,do work on the computer,4754,964,write emails to business partner,2.71429,3.14286,2.85714,1.0
+103_13,4766,966,mow lawn,4659,945,work in the garden,3.0,3.42857,3.14286,0.85714
+103_14,4837,980,apply for and get hired for a new job all in the same day,1814,375,update one's resume,1.85714,2.57143,3.0,0.71429
+103_15,4286,870,read to one's kids,3927,798,go to a bar,0.0,0.0,0.0,-1.28571
+103_16,2123,437,do a ton of spring cleaning,4039,821,do the laundry,2.14286,2.71429,3.14286,0.57143
+103_17,972,201,have lunch with parents,773,160,go to a restaurant,2.71429,2.85714,1.71429,0.71429
+103_18,4401,893,shop for clothes,1657,344,pay one's credit card bill online,0.0,0.14286,0.14286,-0.0
+103_19,4508,914,program,3604,734,type an essay,1.14286,1.42857,0.57143,-0.0
+103_20,4876,988,give one's dog a bath and try her nails,3290,671,work on one's fantasy football lineup,0.0,0.0,0.57143,-0.57143
+103_21,3906,794,plant in garden,904,187,play with legos,0.42857,0.0,0.71429,-0.71429
+103_22,3431,699,learn how to use a fire extinguisher,123,25,smoke marijuana cigarettes,0.0,0.0,0.0,-0.71429
+103_23,4703,953,evaluate the assessments for urology,2671,547,rewrite a lecture,1.0,0.57143,0.71429,0.28571
+103_24,3890,791,finish a book,3779,769,write a poem,1.28571,1.85714,1.42857,0.85714
+103_25,3712,755,buy milk at the grocery store,2454,503,order groceries to be delivered,2.85714,3.28571,3.0,-0.0
+104_1,2661,545,check and respond to emails,4754,964,write emails to business partner,2.57143,3.14286,2.57143,1.0
+104_2,1903,393,go to have one's irn tested at clinic,3396,692,make a casserole for dinner,0.42857,0.42857,0.42857,-0.42857
+104_3,3561,725,craft,4903,993,knit,2.14286,2.85714,2.85714,1.0
+104_4,104,22,have an appointment with one's therapist,2724,557,write one's journal at a cafe,0.42857,0.57143,1.14286,0.57143
+104_5,4593,931,go to work daily,3972,807,go to church with others,0.14286,0.57143,0.42857,0.28571
+104_6,1446,301,tend to one's vegetable garden (weeding),3296,672,water the outdoor plants,2.85714,3.71429,3.14286,1.42857
+104_7,86,18,sell a used bicycle,1715,356,sell some things via craigslist,2.57143,3.0,3.57143,0.85714
+104_8,1516,315,watch tv on the couch,1162,242,sit on the couch with one's spouse,2.0,2.28571,2.28571,0.71429
+104_9,1247,259,watch a concert,299,60,watch anime,1.42857,2.0,2.57143,0.42857
+104_10,2956,604,feed one's cats,3811,775,feed dogs,3.28571,3.42857,3.71429,0.14286
+104_11,3439,701,exercise at the gym,2957,604,make cookies,0.0,0.0,0.0,-0.14286
+104_12,3376,688,organize old cds,2496,512,organize one's desk,2.71429,2.71429,3.57143,0.71429
+104_13,3301,673,listen to someone talk about her/his fears,4599,933,talk to friends on skype,2.0,2.42857,2.85714,0.85714
+104_14,889,184,play with two cats,4780,969,take one's 2 dogs for a walk,2.14286,2.85714,3.28571,-0.0
+104_15,2108,434,pick flowers,3294,671,watch college football,0.0,0.0,0.14286,-1.14286
+104_16,798,165,vacuum the house,1546,322,wash dishes after dinner,1.85714,2.85714,3.28571,0.42857
+104_17,4396,892,fold laundry,2121,437,shop for school clothes,1.0,1.57143,1.14286,-0.14286
+104_18,3134,639,record one's own music,648,134,listen to the radio,1.0,1.85714,1.85714,0.14286
+104_19,4524,918,walk to the store,1323,275,walk to the top of a lighthouse,0.85714,1.85714,1.57143,0.14286
+104_20,3752,763,go clothes shopping,2218,456,buy jewelery for one's daughter,1.57143,2.28571,2.57143,0.85714
+104_21,4748,962,hike in a new park,3541,721,drive around to look at sights with family in new home area,0.85714,1.71429,1.85714,0.85714
+104_22,4832,979,paint,2837,580,work on a new crochet pattern,1.0,1.28571,1.85714,0.42857
+104_23,1144,239,take a long bubble bath,1500,312,go to beach to relax,1.42857,1.71429,2.57143,-0.0
+104_24,2696,552,play chess,3812,775,take a finite math test,0.71429,0.85714,1.14286,0.42857
+104_25,4527,918,play golf,2767,566,comb one's hair,0.0,0.0,0.0,-0.28571
+105_1,3557,724,have scout meeting,2614,535,sew with a sewing machine,0.125,0.0,0.0,-0.25
+105_2,1988,410,paint one's daughter's bedroom,4010,815,paint the baby's room,3.25,3.25,3.375,1.5
+105_3,604,124,spend time with one's family,4300,873,spend time with window experts getting second opinions on installation,0.5,1.25,0.625,-0.5
+105_4,2764,565,do a wood carving,4460,905,sketch ideas for sculptures,1.875,2.25,3.125,0.25
+105_5,3717,756,plant hostas in back yard,4088,830,doctor a horse,0.0,0.0,0.375,-0.5
+105_6,4871,987,experiment with and explore one's new phone,3736,760,play a game on one's phone,1.875,2.375,2.5,0.25
+105_7,1575,328,make a cherry pie,3870,787,walk on the treadmill,0.0,0.125,0.0,-0.75
+105_8,4007,814,go to class,244,49,travel to another state,0.75,0.625,0.25,0.375
+105_9,1523,317,bag up things for goodwill,4331,879,clean out clothes and take the clothes for donation at a thrift store,3.125,3.125,2.875,0.875
+105_10,2210,455,vacuum one's house,2231,459,install a new solid state hard drive,0.125,0.25,0.375,-0.625
+105_11,1667,346,take transit to work,883,182,commute to work,3.375,3.5,3.375,0.5
+105_12,3958,804,eat in a restaurant with one's family,4792,971,eat out at a restaurant with partner,3.25,3.0,3.0,1.375
+105_13,3903,793,walk with the dogs in the woods,4513,915,go hiking in the woods with one's girlfriend/boyfriend,2.625,2.625,2.5,1.25
+105_14,4320,877,watch a movie,299,60,watch anime,2.375,2.75,2.875,0.25
+105_15,4891,991,work on remodeling rooms in one's home,3121,637,paint one's bedroom,2.375,2.5,2.75,1.25
+105_16,3245,662,play an online game,2116,436,play a game on one's computer,3.75,3.5,3.875,1.25
+105_17,354,71,write an email to an apartment realitor in trying to find a new apartment,2232,459,move into a new apartment,1.75,2.5,2.5,1.5
+105_18,2593,531,change one's bed sheet and pillow cases,4712,955,wash the sheets and remaking the bed,3.375,3.375,3.25,1.75
+105_19,4693,951,sweep and mopped the kitchen floor,2698,552,sweep and clean the house,3.5,3.625,3.75,1.625
+105_20,1647,342,play skyrim,1801,373,play fallout 3,3.125,3.375,3.875,0.625
+105_21,114,24,have iced coffee and toast,1363,283,eat breakfast,2.75,2.625,3.5,0.25
+105_22,2216,456,speak with one's friend after a long time,4840,981,finish reading a book one has been working on for a long time,0.5,0.375,0.375,-0.0
+105_23,11,2,do daily housework,3631,739,do some meditation,0.375,0.75,0.125,0.25
+105_24,4493,911,go to the pet blessing at church,45,9,go to church services,2.25,2.875,2.5,0.875
+105_25,2775,568,go to a bass pro elite competition,3006,614,go fishing at a local lake and catch bass,1.625,2.5,1.5,1.125
+106_1,271,55,play a sports with friends,2285,470,have a three day party with friends,0.85714,1.14286,2.28571,0.14286
+106_2,4091,831,detail one's entire house for the inspection,4218,856,have one's car inspected,1.0,1.0,1.85714,0.71429
+106_3,4347,882,make dinner for one's kids,3668,746,make dinner for oneself and significant other,3.71429,3.42857,3.71429,1.0
+106_4,1531,318,go on a dating app,4735,960,go on a date,2.14286,2.14286,3.14286,0.42857
+106_5,1543,321,craft one's inspiration angels,2567,526,eat lunch at 5 guys,0.0,0.0,0.0,-0.57143
+106_6,4892,991,pick apples off of trees,4302,873,spend time with a friend helping her pick the italian plums off of her plum tree in her backyard,3.0,3.0,2.42857,1.0
+106_7,4899,993,read,4053,823,read online news stories,3.42857,3.42857,3.14286,1.42857
+106_8,4595,932,go for a walk,3632,739,go for a long walk,3.71429,3.57143,3.71429,1.71429
+106_9,313,63,go to a movie with friends,1513,315,go shopping with friends,1.57143,1.42857,2.85714,1.28571
+106_10,3297,672,sweep the floor,4440,901,install a new door sweep,1.0,1.14286,1.71429,0.14286
+106_11,1881,389,watch all the matrix movies in a row,4557,924,watch movies,2.71429,2.57143,2.57143,0.85714
+106_12,4273,867,write an article,3182,649,eat fast food,0.0,0.14286,0.28571,-0.14286
+106_13,1969,406,attend a meeting at one's son's school,879,182,eat with coworkers,0.0,0.0,0.28571,-0.28571
+106_14,832,172,go to the bar,207,42,stop at mcdonald's and buy one's dog his plain hamburger and buy a ice cream cone for oneself,0.14286,0.14286,0.57143,-0.28571
+106_15,4930,999,do laundry,2144,441,wash laundry,3.85714,3.85714,4.0,1.71429
+106_16,4311,875,go to the pool,2239,460,go swimming at the town pool,3.71429,4.0,3.85714,1.71429
+106_17,1526,317,do a ton of laundry,4782,969,do a load of laundy,4.0,4.0,3.85714,1.42857
+106_18,3336,680,eat dinner by oneself,817,168,have a dinner and movie night with oneself,3.28571,3.28571,3.28571,1.57143
+106_19,269,54,go to hospital with one's daughter,2663,545,visit a family member at the hospital,3.14286,3.0,3.57143,0.71429
+106_20,2663,545,visit a family member at the hospital,1534,319,go to see one's sister in the hospital,3.85714,3.85714,3.71429,1.42857
+106_21,4485,910,water the plants in the garden,2157,444,water the plants every morning,3.71429,3.57143,4.0,1.71429
+106_22,3938,800,go out to dinner with a friend,907,188,go out to dinner with one's family to get delicious chinese food,2.57143,2.71429,2.57143,-0.0
+106_23,1953,403,go to movie theater,461,95,water the lawn,0.0,0.0,0.0,-0.57143
+106_24,1448,301,wash,4262,865,have the car washed,2.57143,2.71429,3.0,0.71429
+106_25,3628,738,go to college,3064,625,study for classes,2.85714,3.0,3.14286,1.71429
+107_1,4041,821,have drinks with one's girlfriend/boyfriend at local brewing companies,842,174,have a date night,2.625,2.5,2.75,0.875
+107_2,3703,753,shop for dog toys,3845,782,pick up one's 4 cats from the kennel,0.5,0.5,0.625,-0.875
+107_3,1312,273,talk over breakfast,4750,963,exercise,0.0,0.0,0.0,-0.625
+107_4,2573,527,take one's dog for a long walk,4551,923,take the dog outside,3.125,3.25,3.125,0.25
+107_5,1909,394,work out in one's gym for about 2 hours,4656,944,hike a mountain,1.25,1.625,1.625,0.375
+107_6,2664,545,cook and eat dinner for one's extended family,3486,710,talk to one's family,1.25,1.625,2.0,0.875
+107_7,2502,513,sit on the porch and watch the sunset,1333,277,watch the wolf of wall street,0.5,0.75,0.75,-1.0
+107_8,4735,960,go on a date,4658,944,go on a trip to a mountainous area,1.125,1.5,1.625,0.125
+107_9,592,122,fix a leaky faucet,1952,403,fix laptop,1.75,1.5,2.5,0.5
+107_10,1432,298,make cards,2938,600,make some birthday cards and send them to family and friends,3.375,3.375,3.5,1.5
+107_11,382,79,go to the park with one's kids,2987,610,go outside with one's son to play ball,3.375,3.5,3.875,1.25
+107_12,348,70,spend time with one's 10 month old,4408,894,do yoga,0.0,0.0,0.0,-1.0
+107_13,1936,400,eat ice cream,899,186,eat at in-n-out burger,1.875,2.25,3.125,-0.0
+107_14,2991,611,ride one's bike,46,9,ride around,2.875,3.0,3.0,0.875
+107_15,2899,592,finish an application for a grant,2813,575,finish an illlustration,1.25,1.375,1.75,-0.125
+107_16,4840,981,finish reading a book one has been working on for a long time,2007,414,finish a novel,2.75,2.5,3.0,1.0
+107_17,4780,969,take one's 2 dogs for a walk,943,196,take the kids to school,0.5,0.375,0.875,0.375
+107_18,371,75,watch the us open golf tournament,4772,967,watch youtube videos about books,0.75,0.75,1.625,-0.5
+107_19,1624,337,have brunch with visiting friend,3477,708,have breakfast with a friend,3.25,2.875,3.5,1.25
+107_20,3240,661,go to the renaissance festival,1547,322,run errands; pay rent,0.375,0.0,0.0,-0.375
+107_21,2949,602,have a barbecue,729,151,have a picnic lunch and walk,2.25,2.125,2.375,0.125
+107_22,3625,738,eat a sandwich,3518,716,homeschool one's child,0.0,0.0,0.0,-0.0
+107_23,856,177,prepare for a garage sale,3305,674,clean out one's car of the accumulated stuff,1.25,1.375,1.5,0.375
+107_24,1225,255,celebrate a birthday with a friend by baking cupcakes and have dinner together,2498,512,have a long chat with a friend one hasn't seen in awhile,0.75,1.0,1.75,0.375
+107_25,1578,328,give 1 of one's labs a bath,3047,622,color in a book,0.0,0.0,0.25,-0.5
+108_1,4184,850,work out at the gym,1542,321,do exercises in the pool,1.42857,1.85714,2.85714,1.14286
+108_2,953,198,go to a one's husband's family reunion,4097,832,visit family and bond with them,2.57143,3.57143,3.28571,1.28571
+108_3,2401,493,organize and pack one's dorm things into big containers,2123,437,do a ton of spring cleaning,1.71429,2.28571,1.85714,1.0
+108_4,3239,660,do training for one's job,2181,449,sit through new product training,2.85714,3.14286,3.28571,1.71429
+108_5,3022,617,tutor one's basketball players before their exam in history,2473,507,assist one's children with homework,2.42857,2.71429,2.85714,1.0
+108_6,945,196,go to an aerobic dance class,2741,561,work out at gym,2.42857,3.0,3.28571,1.14286
+108_7,330,67,dance with one's 3 yr old nephew to the radio,4275,868,dance,2.42857,3.42857,1.57143,0.71429
+108_8,2606,534,talk to one's daughter on the phone,3356,684,sit and talk with one's son,3.28571,3.42857,3.85714,1.0
+108_9,2467,506,mow the grass,2744,561,cut the grass,4.0,4.0,4.0,1.71429
+108_10,1131,236,choreograph dances,4685,950,take a modern dance class,2.28571,2.85714,1.71429,0.71429
+108_11,4138,840,drive a car,2060,425,drive one's boat on the lake with family,0.85714,0.85714,0.57143,0.42857
+108_12,1006,209,go kayaking up the river,4481,909,go grocery shoppong,0.14286,0.14286,0.28571,-0.14286
+108_13,1724,357,travel back from vacation,119,25,drive from sonoma to southern california,0.85714,1.0,0.71429,-0.0
+108_14,3692,751,drive to missouri,297,60,go on a road trip,2.42857,2.85714,1.57143,0.85714
+108_15,617,128,take long walks,318,64,go on a walk,3.57143,3.71429,3.42857,1.42857
+108_16,4926,998,yoga class,1734,359,exercise in the gym for 1 hour,1.42857,2.57143,3.0,0.85714
+108_17,1946,402,watch the blues brothers movie,2266,466,watch television at night before bed,2.42857,2.14286,2.85714,0.71429
+108_18,2888,590,water the garden,3536,720,water the plants in one's vegetable garden,3.85714,3.85714,3.28571,1.71429
+108_19,435,90,go to work at a restaurant,1981,409,pay a bill,0.28571,0.28571,1.14286,0.14286
+108_20,2129,438,go to the gym and run a three miles on the treadmill,4738,960,swim laps,1.57143,1.57143,3.0,0.57143
+108_21,3020,617,have dinner with girlfriend/boyfriend,2859,584,go out to the movies with a date,2.42857,2.28571,3.42857,1.14286
+108_22,1648,342,work with clients,2859,584,go out to the movies with a date,0.0,0.0,0.0,-0.14286
+108_23,1608,334,reread the first two books in the twilight series,1122,234,watch all of the lord of the rings movies,1.14286,1.57143,2.28571,-0.14286
+108_24,4849,983,play with kids,4455,904,spend time with one's children,3.14286,3.28571,3.14286,1.42857
+108_25,2430,499,study about manly p hall,3136,640,research philosophy and religion,1.28571,1.28571,1.57143,0.42857
+109_1,3204,653,read a novel,2091,431,go to a party,0.42857,0.42857,1.14286,-1.42857
+109_2,2976,608,rake leaves,4766,966,mow lawn,1.85714,3.14286,2.85714,1.28571
+109_3,4287,870,send emails,754,156,email a friend,3.57143,3.57143,3.42857,1.42857
+109_4,936,193,work six 8-hour days at a conference,2530,519,work during the weekdays,3.0,3.14286,3.42857,0.71429
+109_5,4660,945,visit with an out of town friend,482,100,visit a sick friend,2.42857,2.57143,2.42857,0.85714
+109_6,2550,523,study mathematics,3417,696,do free weights,0.14286,0.14286,0.14286,-0.42857
+109_7,3224,657,make bed,2496,512,organize one's desk,0.57143,1.28571,1.57143,0.71429
+109_8,169,35,spend time with one's nephews,2584,529,spend quality time talking with one's grown children to build strong family values and unity,2.71429,2.85714,3.28571,0.71429
+109_9,2545,522,make lunches for one's son,2660,545,attend a recital at one's son's school,0.57143,1.0,2.57143,0.28571
+109_10,1908,394,go to the grocery store to get milk,685,142,crochet for one's business,0.0,0.0,0.0,-0.42857
+109_11,841,174,watch a fight,1202,250,play fighting games,1.14286,1.42857,2.0,1.14286
+109_12,1638,340,work part-time as a dog walker,1725,358,go to a doctors appointment,0.0,0.0,0.0,-0.28571
+109_13,3575,728,eat at restaurants,879,182,eat with coworkers,3.28571,2.42857,2.57143,0.85714
+109_14,1740,361,attend school for one's associates degree,928,192,attend seminars,1.71429,1.57143,2.85714,1.0
+109_15,4756,964,make a craigslist ad,3765,766,sell some items that one no longer uses or needs,2.42857,2.57143,3.0,1.42857
+109_16,4896,992,study real estate,2655,544,come up with ways to make extra money,0.85714,1.0,2.0,0.57143
+109_17,4591,931,play games with son,3813,775,go squirrel hunting,0.57143,0.71429,0.85714,-0.28571
+109_18,3037,620,gym,4534,920,take a shower,0.0,0.57143,0.14286,0.85714
+109_19,4423,897,swim,4738,960,swim laps,3.57143,3.28571,3.85714,1.71429
+109_20,3307,674,read the sunday newspaper,4843,981,go to church on sunday,0.14286,0.71429,0.14286,-1.0
+109_21,1669,346,walk with one's spouse,4908,994,cook dinner for one's spouse,0.28571,1.57143,2.28571,1.0
+109_22,3411,695,do some stuff to get ready for cooler weather,2806,574,prepare meals,0.28571,0.14286,0.14286,-0.28571
+109_23,4390,891,take baby to appointment,1725,358,go to a doctors appointment,3.0,3.14286,3.42857,0.71429
+109_24,209,42,have a drive from buffalo,3501,713,take a short trip,3.0,3.0,3.42857,0.85714
+109_25,2878,588,go to a doctor's appointment with one's mother,1588,330,help one's mother make dinner,0.85714,1.57143,3.0,0.85714
+110_1,3924,798,go to the state fair with friends,2233,459,study abstract algebra,0.0,0.0,0.0,-1.625
+110_2,762,157,workout at the gym,4029,819,workout to lose weight,3.5,3.5,3.375,1.375
+110_3,1322,275,write part of a screenplay,2919,596,coach student actors at one's old high school,1.0,2.0,1.5,0.625
+110_4,135,28,talk on the phone to one's lover,3780,769,sleep with one's lover,1.375,2.375,2.0,1.0
+110_5,4737,960,collect market research,1132,236,learn online marketing,2.125,2.875,3.0,1.125
+110_6,1810,375,brush one's teeth,1966,406,take a long relaxing shower,1.25,1.5,1.5,1.0
+110_7,4301,873,have a date with one's spouse for lunch to enjoy vietnamese pho soup,4407,894,go to lunch with one's girlfriend/boyfriend,2.875,2.75,3.0,0.25
+110_8,3502,713,walk and do jumping jacks,4502,913,do bodyweight exercises,2.5,2.875,3.25,1.0
+110_9,1358,282,go to sleep no later than 11,4487,910,sleep late,2.0,2.375,1.875,-1.125
+110_10,4067,826,go out to eat with one's family,4402,893,eat with friends,2.25,2.625,2.875,-0.375
+110_11,1222,254,swim 1 mile in a pool,3652,743,go swimming with one's children,1.75,2.0,2.0,0.125
+110_12,702,145,weight lifting,4029,819,workout to lose weight,3.0,3.0,3.125,0.375
+110_13,1455,303,swim with one's daughter,1801,373,play fallout 3,0.25,0.25,0.25,-1.125
+110_14,2088,430,make money,404,84,paint for leisure,0.125,0.125,0.125,-0.875
+110_15,3765,766,sell some items that one no longer uses or needs,1611,335,sell a piece of equipment,2.625,2.625,2.75,1.0
+110_16,4080,829,write in journal,1039,216,write an essay,2.375,2.375,2.0,0.625
+110_17,4731,959,go for a run,168,34,walk 10 miles for exercise,2.75,2.5,2.625,0.875
+110_18,2080,429,shop at walmart,4792,971,eat out at a restaurant with partner,0.25,0.25,0.375,-0.5
+110_19,3851,783,go shopping,3640,741,change diapers,0.0,0.0,0.0,-0.375
+110_20,3682,749,bake cinnamon rolls,1492,310,cook dinner consisting of baked chicken with mashed potatoes and spinach,2.5,2.75,2.625,0.5
+110_21,4510,915,go to the milwaukee art museum,3386,690,go on a museum date,3.0,3.375,2.375,1.125
+110_22,228,46,shop at flea market,1234,257,go shopping at the flea market,4.0,4.0,4.0,1.25
+110_23,4137,840,play wallyball,4153,843,play volleyball,2.625,2.375,3.0,0.375
+110_24,4793,971,watch tv with partner,3166,646,watch tv at night,3.0,3.375,3.0,0.625
+110_25,3655,744,play with one's children,2355,484,take one's daughters dress shopping,1.375,1.75,1.5,0.75
+111_1,2236,460,go to the library to return books and take out new books,3935,800,go to the bookstore,2.88889,2.88889,3.22222,0.33333
+111_2,2503,513,walk one's two dogs around the neighborhood,4780,969,take one's 2 dogs for a walk,3.44444,3.22222,3.44444,1.44444
+111_3,1940,401,go to work everyday,1339,278,play video games on one's xbox,0.0,0.11111,0.0,-1.33333
+111_4,3273,667,go to gym,2217,456,go to a far away place for religious reasons,0.11111,0.11111,0.11111,-0.77778
+111_5,3891,791,watch a lunar eclipse,4566,926,stargaze with one's telescope,2.22222,2.33333,2.88889,0.88889
+111_6,662,137,go to one's place of worship,1945,402,practice guitar for church,1.22222,1.55556,2.22222,1.11111
+111_7,1928,398,go out on a date with one's spouse,1822,377,make supper for one's spouse,2.0,2.11111,2.77778,-0.11111
+111_8,4679,949,complete an online homework assignment,1456,303,work as a therapist in a prison,0.0,0.0,0.11111,-0.66667
+111_9,3927,798,go to a bar,818,169,drink a beer in the kitchen,1.77778,1.88889,2.88889,0.22222
+111_10,484,100,attend a seminar,723,150,attend a conference for work,3.22222,3.0,3.33333,1.22222
+111_11,3900,793,draw at home,3314,676,play xbox360,0.22222,0.33333,0.88889,-0.55556
+111_12,4149,843,travel,3340,681,travel by train,2.66667,2.77778,3.33333,1.22222
+111_13,4729,959,go out for ice cream,623,129,cash a check,0.0,0.0,0.11111,-0.22222
+111_14,2632,539,have a conversation with sister,1072,222,tutor one's sister in organic chemistry,1.44444,1.33333,1.11111,0.88889
+111_15,4045,822,watch a movie in theaters,1342,279,watch tv shows,2.22222,2.11111,2.77778,-0.55556
+111_16,3754,764,work on the house,4048,822,cook meals for the week,0.55556,0.55556,1.11111,0.11111
+111_17,3471,707,go to the barbershop,2767,566,comb one's hair,1.66667,1.77778,1.66667,-0.0
+111_18,4488,910,shop for groceries,4108,834,go to the local bookstore to read books and look at things to buy,0.66667,0.55556,0.77778,-0.11111
+111_19,4933,999,coach soccer,4882,989,play soccer,2.22222,2.44444,2.88889,0.66667
+111_20,1191,248,go to a coffee shop,468,97,have coffee with a friend at mcdonalds,2.88889,2.77778,3.11111,0.33333
+111_21,3026,618,chillax,1500,312,go to beach to relax,2.55556,2.33333,2.88889,0.77778
+111_22,1656,344,play candy crush saga on one's kindle fire,2052,423,surf the web on one's ipad,1.11111,1.33333,1.77778,-0.33333
+111_23,3339,681,visit with friends,904,187,play with legos,0.11111,0.22222,0.33333,-0.55556
+111_24,4057,824,complete a difficult task for a project at work,4556,924,research,1.33333,1.55556,1.66667,-0.0
+111_25,2856,584,go fishing on one's boat,639,132,buy one's a dad a fishing pole,1.55556,1.66667,1.88889,0.33333
+112_1,4779,969,have a bbq with one's family--have brisket,4812,975,eat dinner with one's family and friend,3.28571,3.71429,3.71429,1.14286
+112_2,4509,915,play borderlands on the xbox 360,3227,658,watch videos,0.71429,0.85714,1.0,-0.42857
+112_3,2171,447,feed the dogs and cat,4409,895,take care of pets,3.42857,3.57143,3.71429,1.71429
+112_4,4451,903,research new benefits information for the upcoming open enrollment period of one's spouse's employer,2995,612,email medical bill collectors about insurance billing,0.85714,0.71429,0.85714,0.14286
+112_5,813,168,take the kids out for chicken dinner,2545,522,make lunches for one's son,1.42857,1.28571,1.85714,-0.57143
+112_6,4462,905,play a video game,3314,676,play xbox360,3.42857,3.57143,3.71429,1.57143
+112_7,3979,809,golf,371,75,watch the us open golf tournament,2.71429,3.71429,3.42857,1.0
+112_8,1251,260,research cities to move to,4013,815,pack clothes to move,2.28571,2.71429,2.85714,1.14286
+112_9,4730,959,go to work at one's office,2380,489,go to office to work,3.57143,3.57143,3.57143,1.42857
+112_10,1416,294,learn to program,1993,411,complete computer work,2.57143,2.71429,3.0,1.28571
+112_11,331,67,talk to my mother-in-law,816,168,spend an afernoon hanging out with one's mother-in-law,3.57143,3.71429,3.85714,1.71429
+112_12,4372,887,study spanish,3074,627,travel internationally,1.0,1.28571,1.0,-0.0
+112_13,2777,568,play call of duty,3059,624,go to family doctor for note to be excused from jury duty and medication refills,0.28571,0.28571,0.28571,-0.42857
+112_14,2628,538,help brother with homework,4919,997,have a conversation with one's brother,1.85714,2.14286,2.28571,1.0
+112_15,819,170,make handprint fish,4897,992,read the newspaper,0.0,0.0,0.14286,0.42857
+112_16,2655,544,come up with ways to make extra money,2089,430,do business,2.42857,2.57143,3.0,1.28571
+112_17,685,142,crochet for one's business,4450,903,mow the lawn,0.14286,0.28571,0.28571,-0.28571
+112_18,1825,378,go to school,4572,927,walk one's son to school,1.85714,2.0,2.0,0.71429
+112_19,4915,996,pray to the lord,45,9,go to church services,3.42857,3.57143,3.57143,1.71429
+112_20,2099,432,do work/homework,1480,308,study for school,3.14286,3.42857,3.85714,1.42857
+112_21,2295,472,walk dog,3135,640,walk to the store for groceries,1.14286,0.85714,0.71429,0.85714
+112_22,4487,910,sleep late,1752,363,rest in bed,2.85714,3.0,2.28571,1.14286
+112_23,2806,574,prepare meals,801,165,pick vegetables from the garden,1.85714,2.28571,2.42857,1.0
+112_24,3300,673,share a locker with a friend who do not have a lock,4562,925,balance one's bank account,0.0,0.14286,0.0,-0.0
+112_25,4215,856,upgrade one's pc,3230,659,work on computer,2.14286,2.28571,2.0,0.57143
+113_1,611,126,go to movies to see jurassic world,2253,463,watch a movie on tv,2.0,2.42857,2.0,-0.85714
+113_2,2927,598,scrub the walls in the house,4662,945,clean the shower,2.57143,2.28571,3.0,0.57143
+113_3,4073,827,take a marital arts class,3185,650,do some exercise,1.57143,2.14286,1.57143,0.71429
+113_4,1313,273,watch television with one's spouse,2821,577,go to the grand canyon,0.0,0.0,0.28571,-0.42857
+113_5,170,35,get work done at home,954,198,sit in one's office at home where one works remotely,2.28571,2.57143,2.14286,1.14286
+113_6,4083,829,jog,2320,477,go to the gym to work out,2.28571,2.57143,3.14286,0.14286
+113_7,4831,979,mow,4065,826,do yard work,3.0,3.14286,3.14286,1.71429
+113_8,2992,611,eat pizza,1393,289,eat pineapple upside down cake,1.71429,2.0,2.28571,-0.0
+113_9,3337,680,text with friends,4599,933,talk to friends on skype,2.14286,2.57143,2.71429,0.42857
+113_10,6,1,play with one's kid,2894,591,"punch a punching bag 40,000 times",0.0,0.0,0.0,-0.42857
+113_11,4059,825,make jewelry,3314,676,play xbox360,0.14286,0.42857,0.57143,-0.85714
+113_12,2146,442,grill food to eat through the week,1182,246,grill hamburgers,3.0,3.28571,2.85714,1.57143
+113_13,4650,943,clean one's bath tub,1720,357,clean swimming pool,1.57143,2.14286,2.0,0.57143
+113_14,610,126,go shopping for food,2501,513,meet friends at a local restaurant for food and drinks,1.14286,1.28571,1.28571,-0.28571
+113_15,212,43,watch tour de france on tv,4164,846,watch one's son play hockey,1.28571,1.42857,1.0,-0.42857
+113_16,3054,623,share pleasures with one's spouse,3257,664,color with crayons,0.42857,0.28571,0.57143,-0.28571
+113_17,2897,592,meet with one's boss one on one,4536,920,relax at home,0.28571,0.28571,0.85714,-0.71429
+113_18,404,84,paint for leisure,3902,793,take an art clasa,2.0,2.85714,2.57143,1.57143
+113_19,4796,972,have a picnic,2664,545,cook and eat dinner for one's extended family,1.85714,2.0,2.0,0.28571
+113_20,2049,422,attend birthday party,3432,699,celebrate an anniversary by ordering take out and watching a movie,1.28571,1.42857,1.42857,-0.28571
+113_21,4864,986,play video game,3095,632,play video games with spouse via lan,3.14286,3.42857,3.0,1.85714
+113_22,4885,990,go on walks with one's family,3235,660,eat 2 bags of chips,0.0,0.0,0.14286,-0.42857
+113_23,2691,551,pull weeds,2135,440,do a lot of weeding,3.28571,3.28571,3.28571,1.28571
+113_24,3385,690,have a nice dinner and bible study with friends,270,55,go to church with one's family,2.71429,2.85714,3.0,1.85714
+113_25,2539,520,listen to nrp news,777,160,watch a ufc fight,0.71429,0.57143,0.57143,-0.14286
+114_1,309,62,get new insurance for one's car,4218,856,have one's car inspected,0.16667,1.33333,1.66667,1.33333
+114_2,1771,367,go on a run,2502,513,sit on the porch and watch the sunset,0.16667,0.0,0.5,-0.33333
+114_3,1075,224,research jobs,1251,260,research cities to move to,1.0,1.33333,1.16667,1.0
+114_4,4068,826,go biking with one's son,4219,857,go on a bike ride,3.0,3.16667,2.83333,0.66667
+114_5,582,120,go to see jurassic world,3917,796,go to see a movie,3.0,3.16667,3.33333,1.0
+114_6,2164,445,do mandala coloring,1167,243,go to a dodgers game,0.33333,0.33333,0.5,-0.66667
+114_7,462,95,cook dinner for one's spouse and oneself,3884,790,have a date night with spouse,2.66667,2.66667,3.16667,0.83333
+114_8,3123,637,eat lunch with coworkers,2855,584,go to a coworker's party at her house,1.33333,1.33333,1.5,1.0
+114_9,4688,950,go to see a national art museum in copenhagen,1810,375,brush one's teeth,0.0,0.0,0.0,0.33333
+114_10,2833,579,volunteer at the local animal shelter,1747,362,play hockey,0.0,0.0,0.0,-0.16667
+114_11,2267,466,clean up the living room,2182,449,clean the pool,1.5,2.0,2.0,1.0
+114_12,4590,931,mow one acre of land,188,38,landscape one's yard,1.83333,2.5,2.66667,1.33333
+114_13,3737,760,walk one's dog along the beach,159,33,take a walk and enjoy the weather,2.16667,2.5,2.16667,0.66667
+114_14,3778,768,run for 10k training,3724,758,lift weights in the gym,1.66667,1.83333,2.66667,1.16667
+114_15,4449,903,go on a job interview,2731,559,look online for jobs,2.33333,2.83333,3.5,1.66667
+114_16,4104,834,go to a water park,4901,993,go to the beach,1.83333,2.33333,3.0,1.0
+114_17,3058,624,call a sewing machine repair service,2081,429,sew / quilt,1.83333,2.5,2.66667,1.33333
+114_18,4356,884,garden and cook things from the garden,2691,551,pull weeds,2.0,2.5,2.83333,1.5
+114_19,1091,227,go to the park with one's family,340,69,go to dinner with one's family,2.0,2.5,3.16667,1.5
+114_20,2717,556,have dinner at the dining room table with one's family,815,168,have ice cream with the family,2.33333,2.83333,3.33333,1.16667
+114_21,58,12,shop at a retail establishment,4166,846,shop online,1.66667,2.33333,2.83333,-1.0
+114_22,43,8,go to a sit down resturant,2050,423,go to a fast food restaurant with friends and take food to go,1.33333,2.0,2.0,-0.66667
+114_23,1349,280,start strength training,4209,855,go running,2.0,2.66667,2.33333,1.0
+114_24,3355,684,watch one's 3-year-old grandson,513,106,watch one's niece play tball,1.5,2.16667,2.33333,0.33333
+114_25,1547,322,run errands; pay rent,4496,912,do weekend chores,2.33333,2.83333,2.83333,1.66667
+115_1,3901,793,paint the kitchen,4891,991,work on remodeling rooms in one's home,2.25,2.5,2.75,0.75
+115_2,2915,596,make flashcards for one's speech midterm,4062,825,help kids w/homework,0.75,1.5,1.5,0.5
+115_3,4428,898,read books about social issues,4047,822,resume reading a non-fiction book,1.0,1.5,1.0,0.5
+115_4,1254,261,cook a pasta dish with beans,801,165,pick vegetables from the garden,0.0,0.5,0.0,-0.0
+115_5,2972,607,smoke,1963,405,get sick and go to the doctor,0.25,1.25,0.25,0.5
+115_6,924,191,get passenger food catering ready for the next flight,633,131,go to work at dunkin donuts at 5 am to serve coffee all day,0.5,1.0,1.25,0.5
+115_7,3644,742,play games online,4784,970,play world of warcraft,2.0,2.25,2.75,1.0
+115_8,4323,877,eat dinner,4477,908,do some weed eating,1.5,1.5,1.75,0.5
+115_9,965,200,work online and research health articles,3225,658,write paper,1.5,1.75,2.0,0.25
+115_10,235,48,go to the friend of the court,4528,918,go to ss office,0.5,1.0,1.0,-0.5
+115_11,980,203,go to an awards ceremony for one's child,4811,975,help one's oldest son with his math homework,0.5,1.25,1.25,0.25
+115_12,2204,453,have a fetal echocardiogram done by a cardiologist,2852,583,go for bloodwork for one's doctor appointment,1.0,2.5,2.25,0.25
+115_13,4627,938,play ps4 - fifa 15,3245,662,play an online game,2.25,2.5,2.75,0.75
+115_14,4519,917,cat sit for a friend,4892,991,pick apples off of trees,0.0,0.0,0.5,0.25
+115_15,3892,791,go to the bar with a friend,86,18,sell a used bicycle,0.0,0.25,0.0,-0.25
+115_16,2526,518,do clothing returns/exchanges,1348,280,try a new hairstyle,0.0,0.5,0.25,-0.0
+115_17,796,164,call one's parents,1257,261,visit a llama farm with one's family,1.5,2.0,2.0,0.75
+115_18,2920,597,eat dinner at a restaurant,1805,374,serve food,1.25,2.0,1.75,-0.0
+115_19,3816,776,work on blog,4604,934,work with one's daughter on learning the alphabet,0.5,0.75,0.75,-0.25
+115_20,2192,451,play mario,1221,254,play a board game with family,1.75,2.25,2.25,-0.0
+115_21,4560,925,take a bath,3080,629,take care of one's ill significant other,0.25,0.25,0.0,-0.0
+115_22,2984,609,enjoy the view off the southern coast of brooklyn ny sheepshead bay,4111,835,save a life,0.0,0.25,0.25,-0.5
+115_23,4172,847,move furniture around one's house,1525,317,sell one's parents' house,0.25,0.75,0.25,-0.0
+115_24,2570,527,make dinner for one's mother and oneself,3371,687,visit one's parents,1.0,2.0,2.0,0.5
+115_25,1108,231,go to lunch with a couple of friends,156,32,make some new friends in different fb forums,0.75,1.25,1.25,0.25
+116_1,3841,781,write a blog,1827,378,watch gameplay commentary on youtube,0.28571,0.42857,0.57143,-0.28571
+116_2,536,110,watch a movie on one's computer,2919,596,coach student actors at one's old high school,0.0,0.42857,0.28571,-0.28571
+116_3,99,21,shop for a new washing machine,3309,675,pay one's rent,0.71429,0.57143,0.57143,-0.42857
+116_4,1730,359,eat a burrito bowl in chipotle,2010,415,eat tacos,3.28571,3.28571,3.85714,0.85714
+116_5,817,168,have a dinner and movie night with oneself,1122,234,watch all of the lord of the rings movies,2.42857,2.57143,2.85714,0.85714
+116_6,414,86,make a new eliquid,4453,903,cook a meal from from scratch that was a new recipe one was trying for the first time,1.28571,1.71429,1.85714,-0.0
+116_7,4291,871,apply for a job,0,0,apply for a new apartment,1.85714,2.14286,2.0,0.42857
+116_8,4460,905,sketch ideas for sculptures,3141,641,paint a watercolor,2.0,2.42857,3.14286,0.28571
+116_9,928,192,attend seminars,4382,889,listen to lectures online,3.42857,3.71429,4.0,0.42857
+116_10,2002,413,read the news,1367,284,read a magazine,2.14286,2.57143,2.85714,-0.0
+116_11,3074,627,travel internationally,4372,887,study spanish,0.85714,1.57143,1.14286,1.0
+116_12,4792,971,eat out at a restaurant with partner,875,181,go out for drinks with friends,2.57143,2.85714,2.85714,0.57143
+116_13,359,72,sleep away from home,4042,821,stay in a hotel,3.14286,3.42857,3.57143,1.28571
+116_14,1380,287,go to an arcade,4815,976,play video games,3.28571,3.28571,3.42857,0.71429
+116_15,1823,377,drink too much beer,2407,494,get drunk and video chat with a friend living abroad,1.71429,2.42857,1.85714,0.71429
+116_16,1591,331,take naps,1500,312,go to beach to relax,1.57143,2.0,2.28571,0.14286
+116_17,1585,330,watch streaming movies on one's computer,4518,916,go to the drive-in movie theater,1.85714,2.28571,2.57143,-0.0
+116_18,3854,784,make a photography appointment,2620,537,make low carb meals for one's spouse's atkins diet,0.28571,0.0,0.0,-0.0
+116_19,1571,327,have brunch,3477,708,have breakfast with a friend,2.85714,2.85714,3.14286,0.42857
+116_20,3570,727,search for colleges,616,127,job search and write emails to potential employers,1.85714,2.0,2.0,-0.57143
+116_21,2061,425,play games on one's phone,3439,701,exercise at the gym,0.14286,0.14286,0.28571,-1.28571
+116_22,1048,218,clean leaves and debris out of one's gutters,3717,756,plant hostas in back yard,1.85714,2.14286,2.28571,0.85714
+116_23,2173,447,volunteer at community festival,1381,287,spend money on oneself,0.28571,0.28571,0.28571,-0.28571
+116_24,4583,929,attend church,4915,996,pray to the lord,3.57143,3.71429,4.0,1.0
+116_25,4398,892,work the night shift,4726,958,clean,0.42857,0.42857,0.85714,-0.14286
+201_1,1606,334,donate blankets,3092,631,volunteer at the food bank,1.6,2.7,3.2,1.0
+201_2,3851,783,go shopping,4810,975,go to work on one's road bike,0.1,0.3,0.2,-0.5
+201_3,2023,417,text with an old friend,3337,680,text with friends,3.2,3.5,3.7,1.5
+201_4,4052,823,spend time with one's friends,1249,260,continue online education,0.0,0.1,0.1,-0.9
+201_5,2006,414,wash the dogs,4460,905,sketch ideas for sculptures,0.2,0.0,0.1,-0.5
+201_6,4662,945,clean the shower,3340,681,travel by train,0.0,0.0,0.0,-0.4
+201_7,2774,567,go shopping at target,3422,697,go shopping at a new mall,2.6,2.8,3.4,0.9
+201_8,4702,953,go to target to buy sour cream,2774,567,go shopping at target,3.2,3.4,3.4,1.1
+201_9,1966,406,take a long relaxing shower,2988,610,take care of one's son,0.0,0.1,0.3,-0.6
+201_10,3009,614,create a book cover for a kindle book one is working on,892,184,write a story,1.5,1.8,2.2,0.8
+201_11,2599,532,go to work on one's day off,1088,227,send an email,0.3,0.7,0.6,-0.0
+201_12,1805,374,serve food,432,89,eat thai food,0.8,1.4,1.0,0.2
+201_13,2866,586,attend class,1965,406,drive one's daughter to her first day of school,0.1,0.6,0.4,-0.3
+201_14,586,121,go in the pool,4158,844,go swimming in an inground pool,3.7,3.8,3.8,1.6
+201_15,1812,375,take public transportation,4853,983,drive to work,1.0,1.5,2.3,-1.3
+201_16,3741,761,learn how to do a new report at work,605,125,write reports,2.4,2.9,2.8,1.4
+201_17,4158,844,go swimming in an inground pool,1720,357,clean swimming pool,0.7,1.2,0.8,0.4
+201_18,2454,503,order groceries to be delivered,606,125,go out for drinks,0.0,0.1,0.3,-0.7
+201_19,4709,955,walk the dog in the park,1337,278,walk to starbucks to get coffee,1.1,1.2,1.0,0.5
+201_20,4184,850,work out at the gym,2972,607,smoke,0.0,0.0,0.0,-1.3
+201_21,2444,501,attend the ny renaissance faire,4534,920,take a shower,0.0,0.2,0.4,-0.0
+201_22,4225,858,go to dinner with one's mom,957,198,visit one's mother and father,2.5,2.8,2.9,1.4
+201_23,3792,771,take the trash out,4035,820,visit friends out of town,0.0,0.2,0.1,-0.1
+201_24,38,7,spend time with one's spouse,953,198,go to a one's husband's family reunion,2.1,2.6,2.7,1.6
+201_25,2384,489,eat out in a restaurant,4622,937,cook beans from scratch,0.2,0.6,0.5,-1.3
+202_1,3133,639,practice scales on guitar,1397,290,practice one's writing skills by so taking a free online course,0.55556,0.66667,1.66667,-0.22222
+202_2,4792,971,eat out at a restaurant with partner,3084,629,cook dinner most nights,0.55556,0.77778,1.55556,-1.55556
+202_3,1373,285,go shopping online,639,132,buy one's a dad a fishing pole,1.22222,1.0,1.66667,-0.0
+202_4,2061,425,play games on one's phone,2775,568,go to a bass pro elite competition,0.0,0.0,0.22222,-0.77778
+202_5,1049,218,go to the grocery store and pick up medicine for a relative,4910,995,go grocery shopping,2.44444,2.55556,2.55556,1.0
+202_6,4873,987,have an appointment with a dermatologist,2101,433,wash one's face,0.66667,0.77778,1.66667,1.0
+202_7,1310,273,play tennis with one's daughter,904,187,play with legos,1.22222,0.88889,1.55556,-0.33333
+202_8,973,202,go to the warriors game 6 finals viewing party in oracle,1020,212,edit articles for dog club newsletter,0.0,0.0,0.0,-0.66667
+202_9,4066,826,bake cookies for one's family,936,193,work six 8-hour days at a conference,0.11111,0.0,0.22222,-0.77778
+202_10,4002,813,attempt to remove the starter from a 93 toyota 4runner,1444,301,remove diapers,0.22222,0.22222,0.44444,-0.33333
+202_11,3668,746,make dinner for oneself and significant other,4917,996,eat dinner with the family,2.55556,2.55556,3.55556,1.44444
+202_12,624,129,book a cruise,4056,824,plan for a vacation,2.22222,2.66667,3.0,1.0
+202_13,1796,372,attend a staff meeting,49,9,work on a computer at one's job,0.77778,1.0,1.66667,-0.44444
+202_14,4065,826,do yard work,1163,242,weed one's vegetable garden,3.11111,3.0,3.44444,1.66667
+202_15,4096,832,meet with business suppliers,929,192,attend meetings,2.88889,2.88889,3.22222,0.88889
+202_16,2660,545,attend a recital at one's son's school,598,123,spend time with kids,2.33333,2.66667,3.0,1.33333
+202_17,1908,394,go to the grocery store to get milk,562,116,go grocery shopping at one's local supermarket,3.33333,3.11111,3.44444,1.66667
+202_18,246,50,have dinner with friends,3336,680,eat dinner by oneself,1.44444,1.33333,2.44444,-1.44444
+202_19,3754,764,work on the house,142,29,clean garage,3.0,2.66667,2.77778,1.44444
+202_20,2235,460,cook a large spaghetti and meatball dinner for one's family,3976,808,make spaghetti sauce,2.77778,3.0,3.11111,1.55556
+202_21,1355,282,eat breakfast at 7 a.m. every day of the week,3623,737,eat lunch,1.33333,1.55556,2.55556,-0.0
+202_22,2226,458,take an exam,1877,388,study for exams,2.11111,2.33333,3.0,1.77778
+202_23,4526,918,read a lot of books,3533,719,read some interesting fiction,3.22222,3.11111,3.66667,1.44444
+202_24,639,132,buy one's a dad a fishing pole,3006,614,go fishing at a local lake and catch bass,1.11111,1.22222,1.55556,0.22222
+202_25,3572,727,eat at a restuarant with family,4842,981,go to get lunch and froyo with a friend on the weekend,1.55556,1.66667,2.55556,-0.66667
+203_1,2920,597,eat dinner at a restaurant,2274,467,eat cereal for breakfast,1.85714,1.85714,2.42857,-0.57143
+203_2,985,204,stay home from an event due to illness,1963,405,get sick and go to the doctor,1.57143,2.14286,2.28571,0.14286
+203_3,3884,790,have a date night with spouse,3159,644,go to an outdoor movie,2.0,2.28571,2.0,0.71429
+203_4,3265,666,take a trip to the river,2351,483,travel to philadelphia for a meeting,1.0,1.14286,0.57143,-0.14286
+203_5,4645,942,become sick with a cold,3108,634,make a doctors appointment,1.71429,2.57143,2.14286,1.42857
+203_6,1599,332,move to a new home,2047,422,paint a room,1.0,1.85714,1.57143,0.85714
+203_7,0,0,apply for a new apartment,574,118,pack boxes for an upcoming move,1.14286,2.14286,2.57143,1.0
+203_8,669,138,volunteer at church,123,25,smoke marijuana cigarettes,0.0,0.0,0.0,-0.85714
+203_9,1212,252,play disc golf,4075,828,sell insurance,0.0,0.0,0.28571,-0.57143
+203_10,2648,542,procrastinate on homework and then do it,4499,913,study mandarin chinese,0.57143,1.0,0.85714,-0.85714
+203_11,4867,986,go for a jog,2323,477,start a fitbit challenge with sisters,0.85714,1.42857,1.42857,0.57143
+203_12,3690,751,go to sam's club,562,116,go grocery shopping at one's local supermarket,1.71429,1.71429,1.85714,-0.42857
+203_13,739,153,throw a ball,366,74,play catch with one's dogs,2.57143,2.71429,3.0,1.42857
+203_14,2899,592,finish an application for a grant,3506,714,apply for jobs,2.28571,1.85714,2.0,0.57143
+203_15,1538,320,have dinner with one's co-workers,2045,422,bike commute to work,0.0,0.14286,0.57143,-0.14286
+203_16,4500,913,go to a job-related conference,2351,483,travel to philadelphia for a meeting,2.71429,2.85714,3.14286,1.42857
+203_17,1843,381,clean up amazon wishlists,2625,538,organize closet,1.0,1.28571,1.0,0.28571
+203_18,4012,815,work at the gun shop everyday,49,9,work on a computer at one's job,1.0,1.28571,1.71429,-0.71429
+203_19,796,164,call one's parents,4097,832,visit family and bond with them,2.71429,3.42857,3.57143,1.14286
+203_20,3503,713,attend a wedding,1222,254,swim 1 mile in a pool,0.0,0.0,0.0,-0.28571
+203_21,2666,546,pay the phone bill,4656,944,hike a mountain,0.0,0.0,0.57143,-0.42857
+203_22,2852,583,go for bloodwork for one's doctor appointment,4647,942,visit to a gastrointestinal specialist,2.14286,2.28571,3.0,0.57143
+203_23,1682,349,take walks around one's neighborhood,3997,812,drive the car to the park and walk around for a while,1.85714,1.71429,2.28571,-0.28571
+203_24,2102,433,play candy crush,4345,882,talk on the phone to a friend,0.28571,0.42857,0.71429,-0.71429
+203_25,3186,650,watch the movie,902,186,watch frasier on tv,2.0,2.0,2.57143,-0.14286
+204_1,4475,908,pay some bills,3351,683,buy a piece of furniture,0.75,0.875,1.125,0.625
+204_2,4797,972,go fishing,2415,496,hunt,1.875,2.75,3.25,0.5
+204_3,1628,338,go for a jog with one's boyfriend,3601,733,read the bible,0.0,0.0,0.0,-0.375
+204_4,803,166,go sight seeing,922,191,tour washington dc,3.375,3.5,3.625,1.25
+204_5,4609,935,eat,1254,261,cook a pasta dish with beans,1.25,2.0,2.25,0.875
+204_6,4117,836,visit one's home,3521,717,visit a bookstore,0.375,0.625,0.125,-0.25
+204_7,1684,349,read library books,428,89,attend a musical performance,0.25,0.625,1.125,-0.5
+204_8,330,67,dance with one's 3 yr old nephew to the radio,3954,804,hike a mountain trail with one's family,0.625,0.75,1.375,-0.125
+204_9,773,160,go to a restaurant,1274,265,go to a reggae concert,0.5,0.375,0.375,-0.5
+204_10,3518,716,homeschool one's child,2474,507,drive one's children to school,1.625,2.625,2.375,-1.375
+204_11,4771,967,sleep in a lot,1591,331,take naps,2.75,3.125,3.125,0.25
+204_12,452,93,help someone while they were ill,158,32,volunteer at a non-profit company,1.25,1.75,2.875,0.875
+204_13,4604,934,work with one's daughter on learning the alphabet,4605,934,try and teach one's twins to crawl,1.625,2.5,2.375,0.5
+204_14,597,123,rest,1303,271,go swimming at the pool,0.125,0.25,0.125,-1.0
+204_15,3,0,talk with moms about babysitting jobs,364,73,apply for part-time teaching jobs,1.625,2.125,2.25,-0.625
+204_16,2206,454,play with the cat,2862,585,change the cat litter,1.375,2.25,1.625,1.0
+204_17,289,58,read a book called the taker by alma katsu,3413,695,read one's bible each morning,2.375,2.0,1.5,0.125
+204_18,798,165,vacuum the house,1668,346,tidy the apartment,2.625,3.125,3.125,1.0
+204_19,1842,381,work on one's blog,836,173,post a status on facebook,2.25,2.0,2.25,0.25
+204_20,1960,405,go to a school lunch for one's son,2833,579,volunteer at the local animal shelter,0.125,0.25,0.25,-0.125
+204_21,1867,386,go to doctor,2991,611,ride one's bike,0.125,0.375,0.25,-0.25
+204_22,4584,930,read an article about an american dentist who hunted a lion in zimbabwe,3307,674,read the sunday newspaper,2.5,2.875,3.0,0.5
+204_23,1024,213,eat a lot of food,1793,371,eat cereal,2.75,2.625,2.125,0.625
+204_24,2447,502,draw pictures for one's daughter,4811,975,help one's oldest son with his math homework,1.5,2.125,2.125,0.75
+204_25,2217,456,go to a far away place for religious reasons,4394,892,make guacamole,0.0,0.0,0.0,-0.625
+205_1,3507,714,go drinking,3892,791,go to the bar with a friend,3.375,3.5,3.5,1.25
+205_2,4624,938,watch netflix (switched at birth),2351,483,travel to philadelphia for a meeting,0.25,0.25,0.25,-0.5
+205_3,4474,908,participate in installing a metal roof over a patio,4110,835,build a table for one's living room,1.5,1.75,2.5,0.75
+205_4,4484,910,eat lunch in a restaurant,432,89,eat thai food,2.75,3.125,3.5,1.0
+205_5,1575,328,make a cherry pie,4459,905,bake a birthday cake,2.75,2.875,3.0,0.75
+205_6,745,154,use one's computer to work on an adobe illustrator project,3313,675,buy a new laptop computer,0.875,1.25,1.125,0.375
+205_7,3092,631,volunteer at the food bank,1606,334,donate blankets,2.25,2.125,3.5,1.0
+205_8,2781,569,watch tv shows with a friend,2178,448,watch a movie with family,2.625,2.75,3.0,0.625
+205_9,4563,925,do grocery shopping,1338,278,order pizza for delivery,1.0,1.25,2.5,-0.875
+205_10,635,131,go out to eat at beef o brady's to eat spicy chicken wings,992,205,write a paper for a class,0.0,0.0,0.0,-0.375
+205_11,813,168,take the kids out for chicken dinner,4413,895,drive kids around,2.0,2.25,2.375,1.0
+205_12,4621,937,walk to work instead of using public transportation,743,154,walk a mile to one's class,2.875,2.75,3.625,1.375
+205_13,2650,543,check the status of one's disability claim through the ssa website,4679,949,complete an online homework assignment,0.75,0.375,0.5,-0.125
+205_14,3813,775,go squirrel hunting,176,36,walk outside,0.75,1.0,0.875,0.5
+205_15,3411,695,do some stuff to get ready for cooler weather,2767,566,comb one's hair,0.0,0.0,0.0,-0.25
+205_16,634,131,paint one's house white with a trim color of blue,3107,634,decorate the house,2.5,3.0,3.875,1.125
+205_17,4868,986,watch tv,4536,920,relax at home,2.875,3.375,3.375,1.25
+205_18,1878,388,work out with friend,94,20,go swimming in the neighborhood pool,1.75,1.625,2.0,0.375
+205_19,1423,295,visit one's brother,3915,796,visit one's sister at her house,3.75,3.625,4.0,1.375
+205_20,1163,242,weed one's vegetable garden,4485,910,water the plants in the garden,2.875,3.375,3.5,1.75
+205_21,317,64,have an interview for a new job,2207,454,talk to friend about her wedding,0.125,0.25,0.125,-0.375
+205_22,4737,960,collect market research,2028,418,post for one's business on facebook,1.25,1.75,2.5,1.0
+205_23,4340,881,make dinners,4187,850,cook several meals,3.875,3.75,3.875,1.75
+205_24,3292,671,look online for a pet dog,4398,892,work the night shift,0.125,0.0,0.125,-0.375
+205_25,1711,355,search for a job,3125,638,work at a winery,1.0,1.5,1.625,-1.0
+206_1,1236,257,do thesis research,4503,913,do breathing-focused meditation,0.0,0.0,0.1,-0.0
+206_2,31,6,do one's own personal laundry,1580,329,take one's spouse's clothes to the cleaner,2.4,3.0,2.8,-0.6
+206_3,50,10,watch firefly episodes with one's spouse and kids,3572,727,eat at a restuarant with family,1.0,1.2,2.7,0.6
+206_4,1400,291,share some photos online,1224,255,surf the internet for new places to travel,0.9,1.1,0.8,0.4
+206_5,1702,353,talk on the phone to one's son that lives out of state,2272,467,talk to a friend by texting,1.9,1.7,2.9,0.2
+206_6,2719,556,take an out of state trip to visit elderly family,360,73,drive to a city in the next state over,2.5,2.3,2.0,1.4
+206_7,783,162,take photographs of wild birds,1571,327,have brunch,0.2,0.0,0.0,0.2
+206_8,3640,741,change diapers,3508,714,feed a baby,0.8,2.1,2.4,1.1
+206_9,3753,763,go roller skating,3724,758,lift weights in the gym,0.7,0.9,1.3,-0.3
+206_10,4580,929,edit one's novel,3008,614,write a scene for a sci-fi book one is working on,2.9,3.1,2.9,1.2
+206_11,3478,708,play with the kids,4455,904,spend time with one's children,3.2,3.5,4.0,1.6
+206_12,879,182,eat with coworkers,288,58,start a new job at a local subway restaurant in one's hometown,0.3,0.5,0.5,-0.3
+206_13,3713,755,email a client,2245,462,email designs to a developer,2.9,3.2,2.6,1.0
+206_14,3693,751,go out to eat with one's family in different town,2589,530,eat lunch with parents,3.3,3.0,3.9,1.2
+206_15,3975,808,go to a family barbecue,3820,777,grill meat on a charcoal grill,2.0,2.6,2.6,0.7
+206_16,299,60,watch anime,1966,406,take a long relaxing shower,0.0,0.0,1.4,-0.4
+206_17,4623,937,go to search for an art studio,970,201,look at dresses to buy,0.4,0.3,0.5,0.2
+206_18,1998,412,go out to dinner with one's son,2917,596,meet with a friend in the library to do homework together,0.1,0.3,0.4,-0.3
+206_19,4007,814,go to class,4318,876,study for an upcoming exam in biology,2.2,2.7,3.4,1.2
+206_20,1603,333,chat on the phone with a relative,368,74,visit with one's mother-in-law,1.5,2.0,3.0,0.8
+206_21,4413,895,drive kids around,164,34,visit with one's significant other before work,0.8,0.7,0.7,0.2
+206_22,3715,756,paint bedroom wall,2479,508,go to look at a home for sale,0.1,0.6,0.6,-0.0
+206_23,3397,692,read a few books (non-fiction,4805,974,watch documentaries,1.0,1.1,2.7,0.2
+206_24,4691,951,make dinner for one's family,1546,322,wash dishes after dinner,0.7,2.7,2.1,1.2
+206_25,3349,683,teach high school students a class,2739,560,teach yoga,2.3,2.2,3.0,0.2
+207_1,3496,712,watch football,2858,584,go to a chicago cubs game,1.875,2.25,2.875,1.125
+207_2,4755,964,pet a rabbit,867,179,take care of one's rabbits,3.0,3.375,3.5,1.75
+207_3,3445,702,go out to lunch with one's family,4729,959,go out for ice cream,2.125,2.5,2.625,1.125
+207_4,580,120,go horseback riding,3954,804,hike a mountain trail with one's family,0.625,0.875,1.125,0.375
+207_5,4651,943,watch football all day this past sunday,2375,488,manage fantasy football team,2.0,2.25,2.5,1.125
+207_6,91,19,buy a smoothie machine to make smoothies,3235,660,eat 2 bags of chips,0.25,0.625,0.25,-0.25
+207_7,591,122,wash one's cars,3274,667,repair motorcycle,1.25,1.5,1.375,-0.125
+207_8,4760,965,take care of one's dogs,1996,412,groom one's dog,3.25,3.25,3.5,1.5
+207_9,818,169,drink a beer in the kitchen,1210,252,drink a 12 pack of beer,2.75,2.5,2.875,0.75
+207_10,4424,898,blog about feminism,1614,335,write a short story,1.0,1.125,1.625,0.375
+207_11,4882,989,play soccer,2862,585,change the cat litter,0.0,0.0,0.25,-0.25
+207_12,4496,912,do weekend chores,4408,894,do yoga,0.125,0.125,0.25,-0.125
+207_13,4507,914,call a friend in another country,2407,494,get drunk and video chat with a friend living abroad,1.625,2.0,2.0,1.0
+207_14,4328,878,write one's thesis,532,110,write the conclusion to one's thesis,3.0,3.375,3.875,1.5
+207_15,2627,538,wash the car,4445,902,go on a roadtrip,0.125,0.75,1.25,-0.0
+207_16,3757,764,fix the toilet,1346,280,cook a big father's day dinner,0.0,0.375,0.375,-0.0
+207_17,3151,643,have a playdate,1631,339,babysit a neighbor's infant,1.375,1.25,1.0,0.25
+207_18,2047,422,paint a room,592,122,fix a leaky faucet,0.125,0.625,1.875,0.375
+207_19,2582,529,call one's eldest son that lives out of town to catch up and communicate with him,3058,624,call a sewing machine repair service,0.125,0.25,0.25,-0.0
+207_20,1181,246,fast for one day,3182,649,eat fast food,0.125,0.75,0.375,-1.125
+207_21,4287,870,send emails,4754,964,write emails to business partner,2.875,3.0,3.625,1.125
+207_22,3417,696,do free weights,1218,254,lift weights at the gym,3.0,2.875,3.25,1.25
+207_23,1824,377,clean the hamster cages,3977,808,take the cat to the vet,0.625,1.0,1.875,0.375
+207_24,1148,239,hike with one's dog,2912,595,go with one's dog to the dog park,2.625,2.875,2.875,0.75
+207_25,1846,382,take one's kids to soccer practice in the rain,4552,923,help kids with homework,1.125,1.5,2.5,0.625
+208_1,4044,822,brew tea gong-fu style,3968,806,make a pot of coffee in the morning,2.33333,2.0,2.66667,-0.0
+208_2,4010,815,paint the baby's room,880,182,go clubbing with friends,0.16667,0.16667,0.0,-1.0
+208_3,1233,257,run a marathon,4160,845,race a motorcycle,1.5,1.0,2.16667,-0.5
+208_4,2149,442,play the game minecraft,3249,662,use the computer,3.16667,3.5,3.0,1.0
+208_5,261,53,design a commercial office,4287,870,send emails,0.66667,0.66667,0.5,-0.5
+208_6,3233,659,make the bed,3297,672,sweep the floor,2.33333,2.66667,3.0,0.5
+208_7,4093,831,work online,4593,931,go to work daily,2.5,2.33333,3.33333,-0.5
+208_8,4383,889,respond to emails,3324,678,read email,3.5,3.83333,3.66667,1.33333
+208_9,3971,807,watch us open tennis with one's sons,3957,804,play tennis and basketball in the park,1.66667,2.16667,2.0,0.5
+208_10,4300,873,spend time with window experts getting second opinions on installation,3058,624,call a sewing machine repair service,0.5,0.33333,0.83333,-0.16667
+208_11,2129,438,go to the gym and run a three miles on the treadmill,939,195,jog around the block,3.16667,3.0,3.83333,0.33333
+208_12,3309,675,pay one's rent,3875,788,pay one's student loan bill,2.33333,1.83333,3.16667,0.16667
+208_13,190,39,purchase one's first mini computer,2220,457,eat steak,0.0,0.0,0.0,-0.66667
+208_14,3606,734,break up with a girlfriend/boyfriend,4505,914,argue with a friend,2.16667,2.16667,2.0,-0.0
+208_15,4855,984,read at the library,3484,710,read a book before going to sleep,2.33333,2.66667,3.0,0.5
+208_16,2947,602,do work on the computer,3604,734,type an essay,2.33333,2.66667,2.66667,0.33333
+208_17,1999,412,work doing home health,3108,634,make a doctors appointment,1.16667,1.33333,1.66667,-0.33333
+208_18,405,84,spend time helping one's girlfriend/boyfriend with school assignments,2473,507,assist one's children with homework,2.83333,2.66667,3.5,0.16667
+208_19,4409,895,take care of pets,1703,353,volunteer at the church to help feed the homeless and needy,0.83333,0.66667,1.83333,-0.16667
+208_20,922,191,tour washington dc,3141,641,paint a watercolor,0.0,0.0,0.16667,-0.66667
+208_21,1500,312,go to beach to relax,2821,577,go to the grand canyon,1.0,1.0,2.0,-0.16667
+208_22,1536,320,go shopping with one's son,2355,484,take one's daughters dress shopping,3.0,3.0,3.33333,0.5
+208_23,3215,656,go school shopping,3422,697,go shopping at a new mall,3.0,2.66667,3.16667,0.33333
+208_24,3357,684,eat dinner with one's spouse,1363,283,eat breakfast,2.33333,2.33333,3.16667,-0.33333
+208_25,2267,466,clean up the living room,4653,943,vacuum the carpet in one's apartment,3.5,3.66667,3.83333,0.83333
+209_1,4897,992,read the newspaper,2742,561,play lacrosse,0.0,0.0,0.22222,-0.55556
+209_2,4319,877,walk a dog,1638,340,work part-time as a dog walker,2.66667,2.77778,2.22222,1.44444
+209_3,716,148,make breakfast for one's daughters,4559,925,cook breakfast,3.33333,3.22222,2.88889,1.22222
+209_4,3359,685,go out to eat dinner,3604,734,type an essay,0.0,0.0,0.0,-0.44444
+209_5,3212,655,set one's alarm clock for 7,824,171,do morning yoga,0.44444,1.11111,1.0,0.77778
+209_6,168,34,walk 10 miles for exercise,4179,849,order chinese food for dinner,0.0,0.0,0.0,-0.77778
+209_7,1578,328,give 1 of one's labs a bath,2006,414,wash the dogs,2.88889,2.88889,2.88889,0.88889
+209_8,1185,247,watch tv (soccer mainly),825,171,watch game of thrones,1.66667,1.55556,2.55556,0.11111
+209_9,4930,999,do laundry,571,118,wash dirty clothes,3.22222,3.44444,3.22222,1.66667
+209_10,1901,393,make dinner for neighborhood,1805,374,serve food,2.55556,2.66667,2.77778,1.22222
+209_11,2995,612,email medical bill collectors about insurance billing,4683,949,email a professor to schedule a meeting,1.11111,1.0,1.55556,-0.0
+209_12,2041,421,call one's mother-in-law,3551,723,talk on the phone with family,2.88889,3.0,3.22222,1.0
+209_13,2362,485,clean the closet,4784,970,play world of warcraft,0.33333,0.33333,0.33333,-0.66667
+209_14,4647,942,visit to a gastrointestinal specialist,239,48,go to the doctor for one's daughter,2.11111,2.0,2.44444,0.55556
+209_15,4426,898,drink coffee,2463,505,drink water,2.11111,2.0,2.55556,-0.33333
+209_16,3997,812,drive the car to the park and walk around for a while,564,116,take a walk in one's neighborhood,2.77778,2.44444,3.22222,0.55556
+209_17,1050,218,take a nap after dinner and sleep for 4 hours without meaning to do so,950,197,sleep until noon,2.11111,1.88889,2.55556,0.11111
+209_18,4261,865,support a friend via a telephone conversation,1298,270,plant flowers,0.0,0.0,0.0,-0.11111
+209_19,2851,583,meet an ex girlfriend/boyfriend for lunch,3884,790,have a date night with spouse,1.55556,1.22222,2.11111,-0.44444
+209_20,3858,784,go to the movie theater,2380,489,go to office to work,0.55556,0.33333,0.11111,-0.55556
+209_21,2595,532,hang out at the beach with a few of one's closest friends,4645,942,become sick with a cold,0.0,0.11111,0.0,-0.0
+209_22,4449,903,go on a job interview,4096,832,meet with business suppliers,1.33333,1.33333,1.33333,-0.11111
+209_23,4805,974,watch documentaries,3448,702,go to see a movie in a theater,2.0,1.77778,2.44444,0.22222
+209_24,4757,964,walk to class,1825,378,go to school,2.77778,2.88889,3.33333,0.77778
+209_25,2366,486,telecommute,2305,474,listen in on a conference call discussing a very large accident one's agency is investigating,1.33333,1.44444,1.77778,0.66667
+210_1,4930,999,do laundry,1823,377,drink too much beer,0.0,0.0,0.11111,-0.44444
+210_2,2066,426,trim plants and weed the garden,489,101,get one's printer connected,0.11111,0.22222,0.11111,-0.22222
+210_3,4836,980,play with one's cats after have been away for a week,4587,930,feed a stray cat that one found,0.88889,1.77778,2.0,0.77778
+210_4,2527,518,have an emergency room visit,4,0,get sick,1.44444,2.22222,1.55556,0.44444
+210_5,4003,813,accept 2 bids for building a wooden deck,3183,649,sell a furnace,0.88889,1.0,1.22222,0.22222
+210_6,2101,433,wash one's face,533,110,put on makeup,1.66667,2.55556,2.66667,0.33333
+210_7,4890,991,speak to one's mother,419,87,recharge one's phone,0.66667,1.44444,1.11111,0.55556
+210_8,135,28,talk on the phone to one's lover,527,109,bake brownies,0.11111,0.22222,0.44444,-0.33333
+210_9,4094,832,run errands,4496,912,do weekend chores,2.0,2.44444,2.88889,0.22222
+210_10,4822,977,work on powerpoint for work,4199,853,give a presentation at work,2.88889,3.44444,3.44444,1.66667
+210_11,368,74,visit with one's mother-in-law,845,175,make love to one's spouse,0.0,0.44444,0.66667,-0.33333
+210_12,3419,697,write a romantic letter,4727,958,kiss one's spouse,1.22222,2.33333,3.33333,1.33333
+210_13,2888,590,water the garden,2691,551,pull weeds,1.55556,2.66667,2.88889,1.33333
+210_14,1810,375,brush one's teeth,2767,566,comb one's hair,1.55556,2.22222,3.0,1.11111
+210_15,1069,222,work in one's lab,2380,489,go to office to work,2.77778,3.11111,3.22222,-0.33333
+210_16,4491,911,go swimming with someone,2703,553,paint a ceramic lion,0.0,0.0,0.66667,-0.22222
+210_17,2895,592,teach class,2550,523,study mathematics,1.44444,2.33333,2.33333,0.22222
+210_18,3188,650,clean out old email,798,165,vacuum the house,0.77778,0.55556,2.11111,0.22222
+210_19,2725,558,make lunches for one's kids,3680,749,make soap,0.77778,0.88889,0.88889,-0.0
+210_20,559,115,go to the sports arcade with one's grandson,4462,905,play a video game,1.77778,1.88889,1.77778,0.22222
+210_21,2734,559,fill up a bag with giveaway clothes,3140,641,fill car's tank with gas,0.44444,0.77778,0.44444,-0.0
+210_22,2091,431,go to a party,3869,787,go to bible study at church,0.66667,0.66667,0.88889,-0.66667
+210_23,535,110,make bean soup,73,15,bake butternut squash,2.55556,2.33333,3.22222,0.77778
+210_24,2052,423,surf the web on one's ipad,3078,628,watch youtube videos,2.77778,3.22222,3.66667,1.33333
+210_25,2108,434,pick flowers,286,58,research online for jewelry to gift to friends and family,0.44444,0.44444,0.77778,-0.11111
+211_1,1737,360,feed one's dogs,1412,293,play with dogs,2.0,2.57143,3.0,1.85714
+211_2,3722,757,sit by the fire with friends,3612,735,sit outside with one's five dogs and watch them sniff around and lay in the sun,1.14286,0.57143,1.57143,-0.42857
+211_3,2832,579,make a nice ham sandwich,835,173,make lunch for onself and one's spouse,2.85714,3.0,3.14286,1.28571
+211_4,2287,470,start reading game of thrones,198,40,read a mystery novel,3.28571,3.0,3.57143,1.28571
+211_5,4348,882,vacuum living room,4018,816,do house cleaning,3.57143,3.85714,4.0,1.85714
+211_6,4135,840,take one's dog for a walk,379,76,take a walk along the river,2.57143,2.42857,2.28571,0.71429
+211_7,2211,455,go shopping for oneself,4181,849,go to the bookstore for a new release,2.28571,2.0,2.14286,0.57143
+211_8,4926,998,yoga class,1734,359,exercise in the gym for 1 hour,3.0,3.0,3.57143,0.57143
+211_9,239,48,go to the doctor for one's daughter,573,118,make appointments for doctors visits,2.57143,3.0,3.14286,1.14286
+211_10,271,55,play a sports with friends,747,154,use one's sewing machine to make a purse,0.28571,0.28571,0.57143,-0.57143
+211_11,1200,250,buy an awesome burrito,2571,527,eat at a restaurant one has never been to,1.85714,2.0,2.57143,0.28571
+211_12,4894,992,do a fundraising activity for child's club,4572,927,walk one's son to school,1.14286,1.0,1.42857,1.14286
+211_13,2163,445,camp,2468,506,go camping,4.0,4.0,4.0,2.0
+211_14,2448,502,watch a movie with one's kids,4286,870,read to one's kids,2.42857,2.28571,3.14286,1.14286
+211_15,841,174,watch a fight,777,160,watch a ufc fight,3.42857,3.57143,3.85714,1.85714
+211_16,3495,712,watch videos on one's computer,744,154,use one's computer to check one's etsy site,1.57143,1.57143,1.0,0.28571
+211_17,2773,567,read a horror novel,2799,572,bartend,0.0,0.0,0.0,-0.0
+211_18,4918,996,work,4626,938,start one's work day at 8:00am everyday,3.0,3.0,3.28571,2.0
+211_19,1072,222,tutor one's sister in organic chemistry,1877,388,study for exams,1.14286,1.42857,1.14286,0.42857
+211_20,1764,365,take a walk with one's son,2200,453,color daniel tiger pictures with one's 13 month old son,1.57143,1.57143,3.0,1.42857
+211_21,4596,932,play basketball,3023,617,enjoy one's favorite sports team on television,0.85714,1.28571,1.42857,0.14286
+211_22,326,66,cook a nice meal,773,160,go to a restaurant,1.0,1.85714,2.42857,-1.42857
+211_23,2181,449,sit through new product training,1162,242,sit on the couch with one's spouse,0.28571,0.28571,0.57143,-0.28571
+211_24,4558,924,cycle,2809,574,lift weights and exercise,2.71429,2.71429,3.0,1.0
+211_25,2203,453,talk to one's son about high school,2988,610,take care of one's son,2.28571,2.85714,3.0,1.28571
+212_1,4106,834,go to a shopping mall to look for new shoes but not buy anything,1847,382,go grocery shopping and spend more than i planned,1.125,0.75,1.375,0.5
+212_2,1646,342,feed one's snake,4087,830,feed horses,2.375,2.125,3.0,0.5
+212_3,4585,930,make coffee,554,114,make bracelets,0.75,0.75,0.875,-0.0
+212_4,119,25,drive from sonoma to southern california,1965,406,drive one's daughter to her first day of school,1.375,1.125,1.125,0.75
+212_5,1063,221,go to a doctor appointment,1104,231,take a friend to a doctor appt,2.125,2.5,2.25,0.75
+212_6,2693,551,kill a cockroach,3678,748,take care of one's animals,0.25,0.0,0.375,-0.375
+212_7,4428,898,read books about social issues,4424,898,blog about feminism,2.0,2.375,2.75,1.0
+212_8,2046,422,clean one's bird's cage,1083,226,feed pets,1.375,2.0,2.25,1.125
+212_9,2748,562,watch true detective,3512,715,watch big brother on cbs,2.625,2.125,2.75,-0.0
+212_10,322,65,hang out with one's girlfriend/boyfriend,2356,484,hang out at one's sister in laws house with our kids,1.875,1.5,2.125,-0.5
+212_11,2921,597,go out for drinks with family,2501,513,meet friends at a local restaurant for food and drinks,2.375,2.25,2.625,-0.0
+212_12,3232,659,take a long walk,448,93,take one's spouse to the beach for a picnic,1.5,2.0,1.875,0.75
+212_13,2269,466,go to work for 8 hours,164,34,visit with one's significant other before work,0.375,0.5,0.25,-0.5
+212_14,1587,330,visit with one's sister,2452,503,talk with one's sister by cell phone,1.75,2.125,3.25,-0.375
+212_15,701,145,skype boyfriend,1864,385,go to the post office everyday,0.125,0.125,0.5,-0.625
+212_16,991,205,go fishing with one's spouse,4490,911,play yu-gi-oh,0.0,0.125,0.875,-1.0
+212_17,4719,957,play computer games,1396,290,play a video game on one's computer,3.75,3.875,4.0,1.5
+212_18,3384,690,do freelance work,4199,853,give a presentation at work,1.125,1.125,1.375,-1.0
+212_19,3457,704,take pictures of one's child,2447,502,draw pictures for one's daughter,1.5,1.75,2.375,0.375
+212_20,4361,885,replace a light bulb,1862,385,work outside on house,1.0,1.375,1.375,0.75
+212_21,4806,974,eat sushi,2702,553,eat lunch with one's sister,1.875,2.375,2.75,0.25
+212_22,3367,686,eat out at a new restuarant,4732,959,cook dinner for one's family,0.5,0.625,1.25,-1.25
+212_23,4784,970,play world of warcraft,1396,290,play a video game on one's computer,3.5,3.375,3.75,1.0
+212_24,3026,618,chillax,3416,696,relax,3.75,3.75,3.625,1.375
+212_25,2381,489,pick up kids from school,4347,882,make dinner for one's kids,1.0,1.25,2.125,0.5
+213_1,2285,470,have a three day party with friends,136,28,text friends,1.0,1.875,2.875,0.625
+213_2,3696,752,clean the room,3680,749,make soap,0.25,0.5,0.625,0.5
+213_3,1801,373,play fallout 3,4784,970,play world of warcraft,3.375,3.25,3.5,0.25
+213_4,1939,400,visit one's mom,3074,627,travel internationally,1.375,1.5,0.75,-0.125
+213_5,2861,585,replant some hostas,156,32,make some new friends in different fb forums,0.0,0.0,0.125,-0.5
+213_6,2060,425,drive one's boat on the lake with family,2856,584,go fishing on one's boat,3.25,3.375,3.375,1.0
+213_7,1934,399,watch vacation at the movie theatre,888,183,watch jurassic world with a good friend,2.875,2.875,3.0,-0.0
+213_8,2538,520,check one's mail,3510,715,check one's emails in one's hotmail account,3.375,3.375,3.375,1.375
+213_9,541,111,play in an airsoft battle,1548,322,check out books at local public library,0.0,0.0,0.375,-0.875
+213_10,4122,837,started a new job,3506,714,apply for jobs,1.625,2.875,2.75,0.25
+213_11,4110,835,build a table for one's living room,1299,270,build a shelf in one's sons room,3.25,3.75,3.75,1.0
+213_12,685,142,crochet for one's business,4903,993,knit,2.875,3.0,2.375,0.875
+213_13,1881,389,watch all the matrix movies in a row,3578,728,watch movies with family,3.125,3.25,3.25,0.75
+213_14,3638,740,go to amusement park,3383,689,visit amusement park,4.0,4.0,4.0,1.75
+213_15,611,126,go to movies to see jurassic world,1122,234,watch all of the lord of the rings movies,3.25,3.375,3.25,0.5
+213_16,3764,766,get the oil changed in one's car,2494,511,wash one's car,1.5,2.625,2.625,1.125
+213_17,4497,912,play games,4719,957,play computer games,3.375,3.75,3.625,1.375
+213_18,4703,953,evaluate the assessments for urology,660,136,fly fish,0.0,0.25,0.0,-0.25
+213_19,4362,885,review and read material on leadership skills,3843,781,cook yummy meals,0.0,0.0,0.0,-0.25
+213_20,960,199,visit people,2498,512,have a long chat with a friend one hasn't seen in awhile,2.5,2.5,3.125,-0.25
+213_21,3377,688,read a biography,4689,951,make progress in the novel i'm reading,2.875,2.5,3.125,0.75
+213_22,414,86,make a new eliquid,123,25,smoke marijuana cigarettes,0.375,0.625,0.625,-0.0
+213_23,3839,781,spend time with one's boy,716,148,make breakfast for one's daughters,2.375,3.25,3.5,0.75
+213_24,1303,271,go swimming at the pool,2182,449,clean the pool,0.625,1.75,0.75,0.5
+213_25,1718,356,have dinner with one's family,4169,847,go to a cookout,2.125,2.25,2.25,0.5
+214_1,2589,530,eat lunch with parents,2886,590,spend quality time with one's parents,2.55556,2.66667,3.66667,1.55556
+214_2,2150,443,take bike rides,2941,601,ride the train,0.55556,1.0,1.77778,-0.55556
+214_3,2403,493,swim in the pool and play in a mini basketball tournament,1222,254,swim 1 mile in a pool,1.66667,2.0,2.66667,1.22222
+214_4,2205,454,take the train to work,4853,983,drive to work,1.11111,1.0,2.44444,-1.55556
+214_5,4795,972,go swimming,884,183,go to the local gym to exercise,1.33333,1.33333,2.33333,-0.0
+214_6,3726,758,redecorate one's apartment,2484,509,shop for furniture,2.0,2.0,3.0,1.44444
+214_7,4259,865,go to a doctor's appointment,1527,317,take one's dad to several doctor appointments,1.77778,1.66667,2.22222,0.66667
+214_8,699,145,make s'mores,1295,269,make a dessert,2.66667,3.33333,3.44444,0.88889
+214_9,981,203,commute,2941,601,ride the train,2.55556,2.55556,2.77778,1.33333
+214_10,3976,808,make spaghetti sauce,1762,365,cook for one's family,2.33333,2.55556,2.55556,0.88889
+214_11,3969,807,spend quality time with spouse,3530,719,have nice conversations with one's spouse,3.44444,3.55556,3.77778,1.55556
+214_12,4732,959,cook dinner for one's family,4032,819,cook dinner for family,3.66667,3.44444,3.88889,1.77778
+214_13,3323,677,see a band in concert,4590,931,mow one acre of land,0.0,0.0,0.0,-0.88889
+214_14,3711,755,go to the movies with one's son,1998,412,go out to dinner with one's son,2.33333,2.22222,2.88889,1.22222
+214_15,3146,642,go to a birthday party,1691,351,cook for a party,0.88889,1.11111,1.33333,-0.0
+214_16,2473,507,assist one's children with homework,2500,513,help one's mother make flight arrangements to attend a funeral,0.33333,0.22222,1.11111,-0.33333
+214_17,165,34,have coffee with a friend,4302,873,spend time with a friend helping her pick the italian plums off of her plum tree in her backyard,0.44444,0.88889,1.44444,0.22222
+214_18,3450,703,visit one's son,4849,983,play with kids,1.88889,2.22222,3.0,1.22222
+214_19,4493,911,go to the pet blessing at church,2540,521,pray,1.55556,1.77778,2.44444,1.11111
+214_20,3800,773,look for cars on craigslist,3140,641,fill car's tank with gas,0.11111,0.22222,0.77778,-0.55556
+214_21,4572,927,walk one's son to school,3574,728,play outdoors with kids,0.88889,1.0,1.22222,1.11111
+214_22,3584,730,go to the library,4526,918,read a lot of books,2.88889,3.44444,3.66667,1.66667
+214_23,216,44,vacuum the floor,4824,978,clean house,3.11111,3.33333,3.77778,1.66667
+214_24,3532,719,have a great arby's sandwich,4444,902,get fast food,3.33333,3.22222,3.66667,1.33333
+214_25,4578,928,draw,2200,453,color daniel tiger pictures with one's 13 month old son,2.33333,2.33333,2.77778,1.0
+215_1,3953,803,play tennis,1787,370,play sports,2.85714,3.28571,3.42857,1.0
+215_2,4058,824,visit a religious place,3869,787,go to bible study at church,3.0,3.14286,2.85714,1.42857
+215_3,2574,527,go out with one's friend for her/his birthday,3956,804,go to one's cousin's birthday party,3.0,3.14286,3.28571,0.42857
+215_4,2794,571,help elderly momma,2117,436,help a friend fix his truck,1.14286,1.14286,2.57143,0.28571
+215_5,3592,731,give kids a bath,1658,344,take a bath and read entertainment weekly,0.71429,1.0,0.57143,-0.14286
+215_6,2830,579,jog 5 miles at the health center,3724,758,lift weights in the gym,1.85714,2.42857,3.71429,0.57143
+215_7,3767,766,go for a walk on the beach,448,93,take one's spouse to the beach for a picnic,2.14286,2.14286,2.0,0.71429
+215_8,939,195,jog around the block,4734,960,run,3.28571,3.14286,3.28571,1.14286
+215_9,2116,436,play a game on one's computer,1331,277,play some boardgames with one's friends,1.85714,2.14286,2.57143,-0.42857
+215_10,3547,722,go to physical therapy,4612,935,do lots of exercise,1.28571,1.71429,1.42857,-0.28571
+215_11,4919,997,have a conversation with one's brother,3551,723,talk on the phone with family,2.85714,2.85714,3.28571,1.0
+215_12,2304,473,fish for mackerels,55,11,do car shopping,0.28571,0.28571,0.71429,-0.28571
+215_13,265,54,read a book to one's daughter,3264,665,go to one's daughter's lacrosse game,1.14286,1.42857,2.85714,0.71429
+215_14,4776,968,talk to one's son about his career choice,2516,516,drive to new york at 3am for business,0.0,0.14286,0.0,-0.57143
+215_15,3286,670,go to get coffee,3582,729,go out to breakfast,2.0,2.14286,2.42857,0.71429
+215_16,4913,995,go to the dentist,1810,375,brush one's teeth,1.42857,2.14286,2.85714,0.85714
+215_17,4128,838,go for a 30 minute walk,4775,968,wash a very dirty car,0.0,0.14286,0.14286,-0.14286
+215_18,2808,574,listen to motivational recordings on youtube,1210,252,drink a 12 pack of beer,0.0,0.0,0.0,-0.57143
+215_19,3724,758,lift weights in the gym,4252,863,exercise on the treadmill every day,2.14286,2.57143,3.71429,0.85714
+215_20,1911,395,work in childcare at church,4929,999,order charging cables,0.0,0.0,0.0,-0.42857
+215_21,1787,370,play sports,3333,679,walk in the park,1.28571,1.42857,2.28571,-0.14286
+215_22,3396,692,make a casserole for dinner,4179,849,order chinese food for dinner,0.85714,1.42857,2.28571,-0.71429
+215_23,2854,583,switch medical records of three pets to a new vet,1172,244,feed the pets,0.57143,1.28571,2.0,0.14286
+215_24,3661,745,go to get ice cream,699,145,make s'mores,0.57143,1.0,1.57143,-0.42857
+215_25,1481,308,ride one's bicycle,1734,359,exercise in the gym for 1 hour,1.28571,1.71429,2.71429,0.42857
+216_1,4068,826,go biking with one's son,2837,580,work on a new crochet pattern,0.0,0.0,0.33333,-0.55556
+216_2,102,21,mop the floors,3761,765,clean up,3.0,3.55556,3.55556,1.44444
+216_3,4884,990,go to the swap meet,3313,675,buy a new laptop computer,0.88889,0.88889,1.0,-0.44444
+216_4,1996,412,groom one's dog,2995,612,email medical bill collectors about insurance billing,0.0,0.0,0.11111,-0.22222
+216_5,2035,420,feed wild birds,2046,422,clean one's bird's cage,1.33333,1.55556,2.0,0.88889
+216_6,4640,941,discuss with one's son the loss of an old classmate,2915,596,make flashcards for one's speech midterm,0.11111,0.11111,0.11111,-0.33333
+216_7,4459,905,bake a birthday cake,3809,775,work on a tech communications class project,0.0,0.0,0.11111,-0.55556
+216_8,3915,796,visit one's sister at her house,370,75,browse tumblr,0.0,0.11111,0.44444,-0.55556
+216_9,2545,522,make lunches for one's son,3976,808,make spaghetti sauce,2.33333,2.33333,2.88889,1.0
+216_10,4282,869,go to the store for some groceries,113,23,go to starbucks and buy coffee,1.55556,1.55556,2.22222,-0.11111
+216_11,3567,726,gamble,2835,580,go to the casino,3.55556,3.77778,3.77778,1.66667
+216_12,1235,257,attend a concert,3134,639,record one's own music,0.88889,1.22222,1.55556,0.55556
+216_13,93,19,go to a chinese buffet,453,94,eat lots of food,2.66667,2.88889,3.0,0.77778
+216_14,3224,657,make bed,3696,752,clean the room,2.77778,2.88889,3.22222,1.55556
+216_15,4668,946,buy a new baby parakeet named artemis,4409,895,take care of pets,1.44444,1.55556,2.11111,0.66667
+216_16,3262,665,go thrift store shopping,4884,990,go to the swap meet,2.44444,2.11111,2.44444,1.0
+216_17,4602,933,spend time alone with one's fiancee,322,65,hang out with one's girlfriend/boyfriend,3.33333,3.0,3.88889,1.22222
+216_18,4380,889,eat lunch with one's partner,3367,686,eat out at a new restuarant,2.55556,2.66667,2.77778,0.77778
+216_19,2935,600,go shopping at the grocery store,3955,804,shop in a mall with one's family,2.22222,2.22222,2.66667,0.77778
+216_20,2000,413,take one's kids to school,598,123,spend time with kids,2.11111,2.22222,2.77778,0.88889
+216_21,2446,502,sing songs with one's son,1511,314,sing at church,1.77778,1.55556,1.66667,0.44444
+216_22,904,187,play with legos,4110,835,build a table for one's living room,0.33333,0.33333,0.22222,-0.22222
+216_23,1427,297,read a story book,2831,579,read a novel by james patterson,3.44444,3.11111,3.44444,1.33333
+216_24,3994,812,go to visit one's doctor,2856,584,go fishing on one's boat,0.11111,0.11111,0.11111,-0.33333
+216_25,3044,621,go to the store to get food,2050,423,go to a fast food restaurant with friends and take food to go,2.33333,2.22222,3.0,0.44444
