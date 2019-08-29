@@ -1,0 +1,22 @@
+19/08/28 13:54:47 INFO Executor: Finished task 21.0 in stage 10.0 (TID 682). 1754 bytes result sent to driver
+19/08/28 13:54:47 INFO CoarseGrainedExecutorBackend: Got assigned task 683
+19/08/28 13:54:47 INFO Executor: Running task 22.0 in stage 10.0 (TID 683)
+19/08/28 13:54:47 INFO BlockManager: Found block rdd_7_22 locally
+19/08/28 13:54:47 INFO MemoryStore: Block rdd_49_22 stored as bytes in memory (estimated size 0.0 B, free 6.0 GB)
+19/08/28 13:54:47 INFO Executor: Finished task 22.0 in stage 10.0 (TID 683). 1754 bytes result sent to driver
+19/08/28 13:54:47 INFO CoarseGrainedExecutorBackend: Got assigned task 684
+19/08/28 13:54:47 INFO Executor: Running task 23.0 in stage 10.0 (TID 684)
+19/08/28 13:54:47 INFO BlockManager: Found block rdd_7_23 locally
+19/08/28 13:54:47 INFO MemoryStore: Block rdd_49_23 stored as bytes in memory (estimated size 0.0 B, free 6.0 GB)
+19/08/28 13:54:47 INFO Executor: Finished task 23.0 in stage 10.0 (TID 684). 1797 bytes result sent to driver
+19/08/28 13:54:47 INFO CoarseGrainedExecutorBackend: Got assigned task 685
+19/08/28 13:54:47 INFO Executor: Running task 24.0 in stage 10.0 (TID 685)
+19/08/28 13:54:47 INFO BlockManager: Found block rdd_7_24 locally
+19/08/28 13:54:48 INFO MemoryStore: Block rdd_49_20 stored as bytes in memory (estimated size 0.0 B, free 6.0 GB)
+19/08/28 13:54:48 INFO Executor: Finished task 20.0 in stage 10.0 (TID 681). 1840 bytes result sent to driver
+19/08/28 13:54:48 INFO MemoryStore: Block rdd_49_24 stored as bytes in memory (estimated size 0.0 B, free 6.0 GB)
+19/08/28 13:54:48 INFO Executor: Finished task 24.0 in stage 10.0 (TID 685). 1797 bytes result sent to driver
+19/08/28 14:55:29 INFO CoarseGrainedExecutorBackend: Driver commanded a shutdown
+19/08/28 14:55:29 INFO MemoryStore: MemoryStore cleared
+19/08/28 14:55:29 INFO BlockManager: BlockManager stopped
+19/08/28 14:55:29 INFO ShutdownHookManager: Shutdown hook called
